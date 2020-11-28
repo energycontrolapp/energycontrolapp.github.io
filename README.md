@@ -4,9 +4,11 @@
 
 https://n-o-d-e.net/covid.html
   
-### Awesome energy control app software and hardware: A curated lists of awesome [Open Source organizations](https://github.com/cornelius/awesome-open-source/) that offer Products and Services as open source [public projects](https://project-awesome.org/zachflower/awesome-open-source-supporters/)
+----
 
-### Commercial support is available from many companies providing professional services to the Open Source community.
+## Awesome energy control app software and hardware: A curated lists of awesome [Open Source organizations](https://github.com/cornelius/awesome-open-source/) that offer Products and Services as open source [public projects](https://project-awesome.org/zachflower/awesome-open-source-supporters/)
+
+## Commercial support is available from many companies providing professional services to the Open Source community.
 
 ## a list of resources about writing safety-critical software and software safety standards
 
@@ -30,14 +32,47 @@ https://github.com/xesscorp/kicad-3rd-party-tools
 
 https://github.com/topics/hvac
 
-## Open Electronics
+## Open Electronics, Open Source Hardware
+
+https://github.com/mpkasp/awesome-hardware
 
 https://github.com/intajay/open-electronics
 
-## Blog about DIY electronics hardware
+## Embedded Systems and IoT
 
-https://n-o-d-e.net/
+https://github.com/embedded-boston/awesome-embedded-systems
 
+https://github.com/HQarroum/awesome-iot
+
+## Awesome Sustainable Technology
+
+https://github.com/protontypes/awesome-sustainable-technology
+
+https://opensustain.tech/
+
+## Awesome Mechanical Resources
+
+https://github.com/m2n037/awesome-mecheng
+
+## Awesome Smart Metering Infrastructure
+
+https://github.com/Ami-Solution/awesome-advanced-metering-infrastructure
+
+## Awesome Electric Vehicles
+
+https://github.com/saimj7/awesome-electric-vehicles
+
+## Awesome Clean Tech
+
+https://github.com/nglgzz/awesome-clean-tech
+
+## Control Electric Motors
+
+https://github.com/upb-lea/gym-electric-motor
+
+## Awesome-Sensing-Tech
+
+https://github.com/TeYenWu/Awesome-Sensing-Tech
 
 ----
 
