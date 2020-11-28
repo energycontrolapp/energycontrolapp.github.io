@@ -1,1 +1,1 @@
-# README.md
+Awesome energy control app software and hardware
