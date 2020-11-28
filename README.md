@@ -6,31 +6,23 @@
 
 ### OPEN HARDWARE PROJECTS TO FIGHT [COVID-19](https://n-o-d-e.net/covid.html)
 
-## a list of resources about writing safety-critical software and software safety standards
-
-https://awesome-safety-critical.readthedocs.io/en/latest/
-
-https://github.com/sebastianschuler/awesome-safety-critical/
+## a list of resources about writing [SAFETY](https://github.com/sebastianschuler/awesome-safety-critical/) critical software
 
 ## Open Source Electronic Parts Inventory Management Databases
 
-https://github.com/Part-DB/Part-DB/
+[Part-DB](https://github.com/Part-DB/Part-DB/)
 
-https://partkeepr.org/
+[partkeep](https://partkeepr.org/)
 
-## KiCad open-source electronics design automation suite
+## open-source electronics design automation suite [KiCad](https://github.com/xesscorp/kicad-3rd-party-tools/)
 
-https://kicad.org/
-
-https://github.com/xesscorp/kicad-3rd-party-tools/
-
-## a list about HVAC, thermostats, air conditioners and heat pumps
-
-https://github.com/topics/hvac/
+## a list about thermostats, air conditioners and heat pumps and [HVAC](https://github.com/topics/hvac/)
 
 ## Open Electronics, Open Source Hardware
 
 https://github.com/mpkasp/awesome-hardware/
+
+## Open Electronics, Open Source Hardware
 
 https://github.com/intajay/open-electronics/
 
