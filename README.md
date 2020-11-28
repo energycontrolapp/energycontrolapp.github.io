@@ -1,8 +1,6 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-### Awesome energy control app software and hardware
-
-### A curated lists of awesome [Open Source organizations](https://github.com/cornelius/awesome-open-source/) that offer Products and Services as open source [public projects](https://project-awesome.org/zachflower/awesome-open-source-supporters/)
+### Awesome energy control app software and hardware: A curated lists of awesome [Open Source organizations](https://github.com/cornelius/awesome-open-source/) that offer Products and Services as open source [public projects](https://project-awesome.org/zachflower/awesome-open-source-supporters/)
 
 ### Commercial support is available from many companies providing professional services to the Open Source community. These companies play a major role in developing and maintaining Open Source:
 
