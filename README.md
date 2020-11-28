@@ -1,8 +1,45 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+  
+### OPEN HARDWARE PROJECTS TO FIGHT COVID-19
 
+https://n-o-d-e.net/covid.html
+  
 ### Awesome energy control app software and hardware: A curated lists of awesome [Open Source organizations](https://github.com/cornelius/awesome-open-source/) that offer Products and Services as open source [public projects](https://project-awesome.org/zachflower/awesome-open-source-supporters/)
 
-### Commercial support is available from many companies providing professional services to the Open Source community. These companies play a major role in developing and maintaining Open Source:
+### Commercial support is available from many companies providing professional services to the Open Source community.
+
+## a list of resources about writing safety-critical software and software safety standards
+
+https://awesome-safety-critical.readthedocs.io/en/latest/
+
+https://github.com/sebastianschuler/awesome-safety-critical
+
+## Open Source Electronic Parts Inventory Management Databases
+
+https://github.com/Part-DB/Part-DB
+
+https://partkeepr.org/
+
+## KiCad open-source electronics design automation suite
+
+https://kicad.org/
+
+https://github.com/xesscorp/kicad-3rd-party-tools
+
+## a list about HVAC, thermostats, air conditioners and heat pumps
+
+https://github.com/topics/hvac
+
+## Open Electronics
+
+https://github.com/intajay/open-electronics
+
+## Blog about DIY electronics hardware
+
+https://n-o-d-e.net/
+
+
+----
 
 ### automotive [engineering resources](https://github.com/Marcin214/awesome-automotive/)
 
