@@ -16,6 +16,8 @@
 
 ### open-source electronics design automation suite [KiCad](https://github.com/xesscorp/kicad-3rd-party-tools/)
 
+### KiCad for [electrical installation](https://github.com/kirk-loeten/electrical-installation)
+
 ### a list about thermostats, air conditioners and heat pumps and [HVAC](https://github.com/topics/hvac/)
 
 ### Open Source [Awesome-Hardware](https://github.com/mpkasp/awesome-hardware/)
@@ -27,7 +29,6 @@
 ### Awesome [IoT](https://github.com/HQarroum/awesome-iot/)
 
 ### Awesome [Sustainable Technology](https://github.com/protontypes/awesome-sustainable-technology/)
-
 
 ### Awesome [Mechanical Resources](https://github.com/m2n037/awesome-mecheng/)
 
@@ -43,6 +44,8 @@
 
 
 ----
+
+### [Electrical Engineering Python Module](https://github.com/engineerjoe440/ElectricPy/)
 
 ### automotive [engineering resources](https://github.com/Marcin214/awesome-automotive/)
 
