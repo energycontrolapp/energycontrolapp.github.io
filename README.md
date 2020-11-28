@@ -6,61 +6,41 @@
 
 ### OPEN HARDWARE PROJECTS TO FIGHT [COVID-19](https://n-o-d-e.net/covid.html)
 
-## a list of resources about writing [SAFETY](https://github.com/sebastianschuler/awesome-safety-critical/) critical software
+### a list of resources about writing [SAFETY](https://github.com/sebastianschuler/awesome-safety-critical/) critical software
 
-## Open Source Electronic Parts Inventory Management Databases
+### Open Source Electronic Parts Inventory Management Databases
 
-[Part-DB](https://github.com/Part-DB/Part-DB/)
+### [Part-DB](https://github.com/Part-DB/Part-DB/)
 
-[partkeep](https://partkeepr.org/)
+### [partkeep](https://partkeepr.org/)
 
-## open-source electronics design automation suite [KiCad](https://github.com/xesscorp/kicad-3rd-party-tools/)
+### open-source electronics design automation suite [KiCad](https://github.com/xesscorp/kicad-3rd-party-tools/)
 
-## a list about thermostats, air conditioners and heat pumps and [HVAC](https://github.com/topics/hvac/)
+### a list about thermostats, air conditioners and heat pumps and [HVAC](https://github.com/topics/hvac/)
 
-## Open Electronics, Open Source Hardware
+### Open Source [Awesome-Hardware](https://github.com/mpkasp/awesome-hardware/)
 
-https://github.com/mpkasp/awesome-hardware/
+### Open Source [Open-Electronics](https://github.com/intajay/open-electronics/)
 
-## Open Electronics, Open Source Hardware
+### Awesome [Embedded Systems](https://github.com/embedded-boston/awesome-embedded-systems/)
 
-https://github.com/intajay/open-electronics/
+### Awesome [IoT](https://github.com/HQarroum/awesome-iot/)
 
-## Embedded Systems and IoT
+### Awesome [Sustainable Technology](https://github.com/protontypes/awesome-sustainable-technology/)
 
-https://github.com/embedded-boston/awesome-embedded-systems/
 
-https://github.com/HQarroum/awesome-iot/
+### Awesome [Mechanical Resources](https://github.com/m2n037/awesome-mecheng/)
 
-## Awesome Sustainable Technology
+### [Awesome Smart Metering Infrastructure](https://github.com/Ami-Solution/awesome-advanced-metering-infrastructure/)
 
-https://github.com/protontypes/awesome-sustainable-technology/
+### [Awesome Electric Vehicles](https://github.com/saimj7/awesome-electric-vehicles/)
 
-https://opensustain.tech/
+### [Awesome Clean Tech](https://github.com/nglgzz/awesome-clean-tech/)
 
-## Awesome Mechanical Resources
+### Control [Electric Motors](https://github.com/upb-lea/gym-electric-motor/)
 
-https://github.com/m2n037/awesome-mecheng/
+### [Awesome-Sensing-Tech](https://github.com/TeYenWu/Awesome-Sensing-Tech/)
 
-## Awesome Smart Metering Infrastructure
-
-https://github.com/Ami-Solution/awesome-advanced-metering-infrastructure
-
-## Awesome Electric Vehicles
-
-https://github.com/saimj7/awesome-electric-vehicles/
-
-## Awesome Clean Tech
-
-https://github.com/nglgzz/awesome-clean-tech/
-
-## Control Electric Motors
-
-https://github.com/upb-lea/gym-electric-motor/
-
-## Awesome-Sensing-Tech
-
-https://github.com/TeYenWu/Awesome-Sensing-Tech/
 
 ----
 
