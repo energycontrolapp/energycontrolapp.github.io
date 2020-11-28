@@ -4,9 +4,7 @@
 
 ## Commercial support is available from many companies providing professional services to the Open Source community.
 
-### OPEN HARDWARE PROJECTS TO FIGHT COVID-19
-
-https://n-o-d-e.net/covid.html
+### OPEN HARDWARE PROJECTS TO FIGHT [COVID-19](https://n-o-d-e.net/covid.html)
 
 ## a list of resources about writing safety-critical software and software safety standards
 
