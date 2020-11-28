@@ -1,6 +1,8 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-## Awesome energy control app software and hardware: A curated lists of awesome [Open Source organizations](https://github.com/cornelius/awesome-open-source/) that offer Products and Services as open source [public projects](https://project-awesome.org/zachflower/awesome-open-source-supporters/)
+## Awesome energy control app software and hardware
+
+## A curated lists of [Awesome Open Source](https://github.com/cornelius/awesome-open-source/) organizations that offer Products and Services as open source [public projects](https://project-awesome.org/zachflower/awesome-open-source-supporters/)
 
 ## Commercial support is available from many companies providing professional services to the Open Source community.
 
@@ -8,11 +10,7 @@
 
 ### a list of resources about writing [SAFETY](https://github.com/sebastianschuler/awesome-safety-critical/) critical software
 
-### Open Source Electronic Parts Inventory Management Databases
-
-### [Part-DB](https://github.com/Part-DB/Part-DB/)
-
-### [partkeep](https://partkeepr.org/)
+### Open Source Electronic Parts Inventory Management Databases [Part-DB](https://github.com/Part-DB/Part-DB/) [partkeepr](https://partkeepr.org/)
 
 ### open-source electronics design automation suite [KiCad](https://github.com/xesscorp/kicad-3rd-party-tools/)
 
