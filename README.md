@@ -1,6 +1,6 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-# A curated list of Awesome [energy control app] (https://github.com/energycontrolapp) software and hardware
+# A curated list of Awesome [energycontrolapp] (https://github.com/energycontrolapp) software and hardware
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
