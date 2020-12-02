@@ -49,7 +49,9 @@
 - [ESP](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
 - [Deno](https://github.com/denolib/awesome-deno#readme) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
 
+## Programming Languages
 
+- [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
 
 Awesome energy control app software and hardware
 
@@ -62,10 +64,6 @@ Commercial support is available from many companies providing professional servi
 ### a list of resources about writing [SAFETY](https://github.com/sebastianschuler/awesome-safety-critical/) critical software
 
 ### Open Source Electronic Parts Inventory Management Databases [Part-DB](https://github.com/Part-DB/Part-DB/) [partkeepr](https://partkeepr.org/)
-
-### open-source electronics design automation suite [KiCad](https://github.com/xesscorp/kicad-3rd-party-tools/)
-
-### KiCad for [electrical installation](https://github.com/kirk-loeten/electrical-installation)
 
 ### a list about thermostats, air conditioners and heat pumps and [HVAC](https://github.com/topics/hvac/)
 
@@ -92,11 +90,9 @@ Commercial support is available from many companies providing professional servi
 ### [Awesome-Sensing-Tech](https://github.com/TeYenWu/Awesome-Sensing-Tech/)
 
 
-----
+---
 
 ### [Electrical Engineering Python Module](https://github.com/engineerjoe440/ElectricPy/)
-
-### automotive [engineering resources](https://github.com/Marcin214/awesome-automotive/)
 
 ### embedded [software](https://github.com/memfault/awesome-embedded/)
 
@@ -120,13 +116,19 @@ Commercial support is available from many companies providing professional servi
 
 ##### IoT CHIP Connected Home over IP Standard - [Apple Home Kit Zigbee Google Amazon Samsung Philips Schneider](https://www.connectedhomeip.com/)
 
-#### parametric 3D modeling software [FreeCAD](https://github.com/FreeCAD/FreeCAD/) has [add-ons](https://github.com/FreeCAD/FreeCAD-addons/) is [awesome](https://github.com/willianjusten/awesome-svg/) and [flaweless](https://github.com/LisaDziuba/Awesome-Design-Tools/)
+#### parametric 3D modeling software [FreeCAD](https://github.com/FreeCAD/FreeCAD/) has [add-ons](https://github.com/FreeCAD/FreeCAD-addons/)
 
-#### solid 3D CAD software [OpenSCAD](https://en.m.wikipedia.org/wiki/OpenSCAD/) exports [AutoCAD DXF](https://en.m.wikipedia.org/wiki/AutoCAD_DXF/) is [awesome](https://github.com/willianjusten/awesome-svg/) and [flaweless](https://github.com/LisaDziuba/Awesome-Design-Tools/)
+#### solid 3D CAD software [OpenSCAD](https://en.m.wikipedia.org/wiki/OpenSCAD/) exports [AutoCAD DXF](https://en.m.wikipedia.org/wiki/AutoCAD_DXF/) is [awesome](https://github.com/willianjusten/awesome-svg/)
 
-#### army Ballistic Research Laboratory [BRL-CAD](https://en.m.wikipedia.org/wiki/BRL-CAD/) ballistic [solid modeling](https://en.m.wikipedia.org/wiki/Constructive_solid_geometry/) [CAD](https://brlcad.org/) is [awesome](https://github.com/m2n037/awesome-mecheng/) and uses [CSG](https://en.m.wikipedia.org/wiki/Constructive_solid_geometry) modeling to [study physical phenomena such as ballistic penetration - thermal, radiative, neutron](http://brlcad.org/wiki/Overview#Why_CSG_Modeling.3F)
+#### army Ballistic Research Laboratory [BRL-CAD](https://en.m.wikipedia.org/wiki/BRL-CAD/) ballistic [solid modeling](https://en.m.wikipedia.org/wiki/Constructive_solid_geometry/) [CAD](https://brlcad.org/) uses [CSG](https://en.m.wikipedia.org/wiki/Constructive_solid_geometry/) modeling to [study physical phenomena such as ballistic penetration - thermal, radiative, neutron](http://brlcad.org/wiki/Overview#Why_CSG_Modeling.3F)
 
-##### [KiCad PCB](https://kicad-pcb.org/) is [awesome](https://github.com/Academany/awesome-fabacademy) and has [3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools). 2D [LibreCAD.org](https://librecad.org/) is [awesome](https://github.com/m2n037/awesome-mecheng). [LibrePCB](https://librepcb.org/) software for printed circuit boards is [awesome](https://awesomeopensource.com/project/LibrePCB/LibrePCB). CNC is [awesome](https://github.com/Phreak87/Awesome-CNC). 3D CAD software [solvespace](https://snapcraft.io/solvespace) is [awesome](https://github.com/Symbian9/AWESOME-LDraw). [EasyLogic.Studio ](https://www.easylogic.studio/) is a [flaweless](https://github.com/LisaDziuba/Awesome-Design-Tools) and [awesome](https://github.com/willianjusten/awesome-svg) online [SVG](https://en.m.wikipedia.org/wiki/Scalable_Vector_Graphics) editor. [Blender.org](https://en.m.wikipedia.org/wiki/Blender_(software)) is [awesome](https://github.com/paperbenni/awesome-blender) and [flaweless](https://github.com/LisaDziuba/Awesome-Design-Tools).
+##### [KiCad-PCB](https://kicad-pcb.org/) is an open-source electronics design automation suite [awesome](https://github.com/Academany/awesome-fabacademy/) and has [3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools/) and tools for [electrical installation](https://github.com/kirk-loeten/electrical-installation/)
+
+#### 2D [LibreCAD.org](https://librecad.org/) is [LibrePCB](https://librepcb.org/) software for printed circuit boards is [awesome](https://awesomeopensource.com/project/LibrePCB/LibrePCB). CNC is [awesome](https://github.com/Phreak87/Awesome-CNC)
+
+### 3D CAD software [solvespace](https://snapcraft.io/solvespace) is [awesome](https://github.com/Symbian9/AWESOME-LDraw). [EasyLogic.Studio ](https://www.easylogic.studio/) is awesome
+
+### Blender [Blender.org](https://en.m.wikipedia.org/wiki/Blender_(software)/) is [awesome](https://github.com/paperbenni/awesome-blender/)
 
 #### [draw a 2D floorplan and navigate it in 3D](https://github.com/cvdlab/react-planner) using [cvdlab react-planner](https://cvdlab.github.io/react-planner/)
 
@@ -138,7 +140,7 @@ Commercial support is available from many companies providing professional servi
 
 #### OpenBMC includes [u-boot](https://en.m.wikipedia.org/wiki/Das_U-Boot), an open-source bootloader that boots a Linux kernel with a minimal root file system containing all the tools and binaries needed to run OpenBMC [boot ROMs](https://github.com/facebook/openbmc-uboot/)
 
-----
+---
 
 ##### what is awesome? - [awesome is a researched and carefully compiled curated list of things that can be personally recommended](https://github.com/sindresorhus/awesome)
 
@@ -146,7 +148,7 @@ Commercial support is available from many companies providing professional servi
 
 ##### what is Open Source about? - [it enables companies to modify source code and redistribute the software](https://en.m.wikipedia.org/wiki/Free_software_license)
 
-##### awesome acknowledgments and the [awesome-manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md#the-awesome-manifesto) -  [awesome](https://github.com/sindresorhus/awesome#contents) lists about all kinds of interesting topics - [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us) - [the institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation) - only awesome is [awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome)
+##### awesome acknowledgments and the [awesome-manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md#the-awesome-manifesto) -  [awesome](https://github.com/sindresorhus/awesome) lists about all kinds of interesting topics - [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us) - [the institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation) - only awesome is [awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome)
 
 ### [bestawesomesoftware.org](https://bestawesomesoftware.org)
 
