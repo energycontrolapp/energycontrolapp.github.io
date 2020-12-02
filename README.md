@@ -40,14 +40,6 @@
 
 - [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets
 
-## macOS
-
-- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Operating system for Apple Mac computers
-- [macOS Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
-- [macOS Apps](https://github.com/jaywcjlove/awesome-mac#readme)
-- [macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
-- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch
-
 ## Android
 
 - [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google
@@ -55,6 +47,14 @@
 ## Windows
 
 - [Windows](https://github.com/Awesome-Windows/Awesome#readme)
+
+## macOS
+
+- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Operating system for Apple Mac computers
+- [macOS Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
+- [macOS Apps](https://github.com/jaywcjlove/awesome-mac#readme)
+- [macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch
 
 ## Linux
 
@@ -235,10 +235,12 @@ Commercial support is available from many companies providing professional servi
 
 ---
 
-##### what is Open Source? - [companies are encouraged to use, copy, and change software source code](https://en.m.wikipedia.org/wiki/Free_and_open-source_software)
+##### what is Open Source? - [companies are encouraged to use, copy, and change software source code](https://en.m.wikipedia.org/wiki/Free_and_open-source_software/)
 
 ##### what is Open Source about? - [it enables companies to modify source code and redistribute the software](https://en.m.wikipedia.org/wiki/Free_software_license)
 
-##### what is awesome? - [awesome is a researched and carefully compiled curated list of things that can be personally recommended] - acknowledgments - only awesome is [awesome](https://github.com/sindresorhus/awesome/) lists about all kinds of interesting topics - [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us) - [the institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation)
+##### what is awesome? - [awesome is a researched and carefully compiled curated list of things that can be personally recommended] - acknowledgments - only awesome is [awesome](https://github.com/sindresorhus/awesome/)
 
-### [bestawesomesoftware.org](https://bestawesomesoftware.org)
+##### [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us) - [the institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation)
+
+### [bestawesomesoftware.org](https://bestawesomesoftware.org/)
