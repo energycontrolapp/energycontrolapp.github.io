@@ -30,12 +30,12 @@
 - [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme)
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - Create apps for different TV platforms.
-- [Flutter](https://github.com/Solido/awesome-flutter#readme) - mobile SDK for building native iOS and Android apps.
+- [Flutter](https://github.com/Solido/awesome-flutter#readme) - Cross-Platform mobile SDK for building native iOS and Android apps.
 - [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts privacy first.
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
 - [ESP](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and IoT applications.
-- [Deno](https://github.com/denolib/awesome-deno#readme) - runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
-- [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
+- [Deno](https://github.com/denolib/awesome-deno#readme) - JavaScript and TypeScript runtime that uses V8 and is built in Rust.
+- [IoT and Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
 
 ## iOS
 
@@ -67,7 +67,7 @@
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
 - [Standard Style](https://github.com/standard/awesome-standard#readme)
-- [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - Linter
+- [ESLint](https://github.com/dustinspecker/awesome-eslint#readme)
 - [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
 - [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - Python for microcontrollers.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
@@ -92,7 +92,7 @@
 - [Shell](https://github.com/alebcay/awesome-shell#readme)
 - [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme)
 - [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
-- [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
+- [Git Cheat Sheet and Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
 - [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during git workflows.
 - [SSH](https://github.com/moul/awesome-ssh#readme)
 - [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme)
@@ -127,8 +127,8 @@
 ## Business
 
 - [Open Companies](https://github.com/opencompany/awesome-open-company#readme)
-- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting & communication best practices.
-- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Leading people and being a manager in a technology company/environment
+- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting and communication best practices.
+- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Leading people and being a manager in a technology company/environment.
 - [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News.
 - [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to improve strategic planning and decision making.
 
@@ -140,7 +140,7 @@
 
 ## Testing
 
-- [Testing](https://github.com/TheJambo/awesome-testing#readme) - Software testing
+- [Testing](https://github.com/TheJambo/awesome-testing#readme) - Software testing.
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
 - [TAP](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
 - [k6](https://github.com/k6io/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
@@ -237,7 +237,7 @@ Commercial support is available from many companies providing professional servi
 
 ##### what is Open Source about? - [it enables companies to modify source code and redistribute the software](https://en.m.wikipedia.org/wiki/Free_software_license)
 
-##### what is awesome? - [awesome is a researched and carefully compiled curated list of things that can be personally recommended] - acknowledgments - only awesome is [awesome](https://github.com/sindresorhus/awesome/)
+##### what is awesome? - only awesome is [awesome is a researched and carefully compiled curated list of things that can be personally recommended](https://github.com/sindresorhus/awesome/)
 
 ##### [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us) - [the institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation)
 
