@@ -237,7 +237,7 @@ Commercial support is available from many companies providing professional servi
 
 ##### what is Open Source about? - [it enables companies to modify source code and redistribute the software](https://en.m.wikipedia.org/wiki/Free_software_license)
 
-##### what is awesome? - only awesome is [awesome is a researched and carefully compiled curated list of things that can be personally recommended](https://github.com/sindresorhus/awesome/)
+##### what is Awesome? - Only Awesome is [Awesome - a researched and carefully compiled curated list of things that can be personally recommended](https://github.com/sindresorhus/awesome/)
 
 ##### [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us) - [the institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation)
 
