@@ -1,35 +1,54 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-# energycontrolapp.github.io [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome [energycontrolapp.github.io](https://energycontrolapp.github.io/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of Awesome energy control app software and hardware
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
-- [Contribute](#Contribute)
+- [Platforms](#platforms)
+- [Programming Languages](#programming-languages)
+- [Books](#books)
+- [Development Environment](#development-environment)
+- [Entertainment](#entertainment)
+- [Databases](#databases)
+- [Media](#media)
+- [Security](#security)
+- [Hardware](#hardware)
+- [Business](#business)
+- [Work](#work)
+- [Networking](#networking)
+- [Decentralized Systems](#decentralized-systems)
+- [Testing](#testing)
 
-## Section
+## Platforms
 
-About this section. Optional. Keep this short and focus on the list.
+- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
+- [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
+- [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
+- [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
+- [Linux](https://github.com/aleksandar-todorovic/awesome-linux#readme)
+	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
+	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
+- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Operating system for Apple's Mac computers.
+	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
+	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
+	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
+	- [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
+- [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
+- [Windows](https://github.com/Awesome-Windows/Awesome#readme)
+- [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
+- [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
+- [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - Create apps for different TV platforms.
+- [Flutter](https://github.com/Solido/awesome-flutter#readme) - Google's mobile SDK for building native iOS and Android apps from a single codebase written in Dart.
+- [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first.
+- [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
+- [ESP](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
+- [Deno](https://github.com/denolib/awesome-deno#readme) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Contribute
-
-Read the [contribution guidelines](contributing.md) first.
 
 
 Awesome energy control app software and hardware
