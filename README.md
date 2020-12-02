@@ -1,6 +1,6 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-# A curated list of Awesome [energycontrolapp] (https://github.com/energycontrolapp) software and hardware
+# Awesome Energy Control App
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
@@ -113,14 +113,14 @@
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 - [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services
 - [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data
-- [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
+- [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security/)
 - [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps)
 
 
 ## Hardware
 
-- [Internet of Things](https://github.com/HQarroum/awesome-iot#readme)
-- [Electronics](https://github.com/kitspace/awesome-electronics#readme)
+- [awesome Internet of Things](https://github.com/HQarroum/awesome-iot/)
+- [Electronics](https://github.com/kitspace/awesome-electronics/)
 - [Bluetooth Beacons](https://github.com/rabschi/awesome-beacon#readme)
 - [Plotters](https://github.com/beardicus/awesome-plotters#readme)
 
@@ -169,8 +169,6 @@ Commercial support is available from many companies providing professional servi
 
 ### Awesome [Embedded Systems](https://github.com/embedded-boston/awesome-embedded-systems/)
 
-### Awesome [IoT](https://github.com/HQarroum/awesome-iot/)
-
 ### Awesome [Sustainable Technology](https://github.com/protontypes/awesome-sustainable-technology/)
 
 ### Awesome [Mechanical Resources](https://github.com/m2n037/awesome-mecheng/)
@@ -190,10 +188,6 @@ Commercial support is available from many companies providing professional servi
 ### [Electrical Engineering Python Module](https://github.com/engineerjoe440/ElectricPy/)
 
 ### embedded [software](https://github.com/memfault/awesome-embedded/)
-
-### awesome [Embedded and IoT](https://github.com/fkie-cad/awesome-embedded-and-iot-security/)
-
-### awesome [Electronics](https://github.com/kitspace/awesome-electronics/)
 
 ### awesome [Electronic Engineering Resouces](https://github.com/SergioGasquez/awesome-electronic-engineering/)
 
@@ -248,6 +242,3 @@ Commercial support is available from many companies providing professional servi
 ##### what is awesome? - [awesome is a researched and carefully compiled curated list of things that can be personally recommended] - acknowledgments - only awesome is [awesome](https://github.com/sindresorhus/awesome/) lists about all kinds of interesting topics - [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us) - [the institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation)
 
 ### [bestawesomesoftware.org](https://bestawesomesoftware.org)
-
----
-
