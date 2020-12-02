@@ -1,44 +1,29 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-# Awesome [energycontrolapp.github.io](https://energycontrolapp.github.io/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A curated list of Awesome energy control app software and hardware
 
-> A curated list of Awesome energy control app software and hardware
-
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contents
 
 - [Platforms](#platforms)
+- [macOS](#macos)
+- [Linux](#linux)
+- [Windows](#windows)
 - [Programming Languages](#programming-languages)
+- [Front-End Development](#front-end-development)
 - [Development Environment](#development-environment)
-- [Entertainment](#entertainment)
 - [Databases](#databases)
-- [Media](#media)
 - [Security](#security)
 - [Hardware](#hardware)
 - [Business](#business)
-- [Work](#work)
 - [Networking](#networking)
-- [Decentralized Systems](#decentralized-systems)
 - [Testing](#testing)
 
 ## Platforms
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
-	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
-- [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
-- [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
-- [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
-- [Linux](https://github.com/aleksandar-todorovic/awesome-linux#readme)
-	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
-	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
-- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Operating system for Apple's Mac computers.
-	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
-	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
-	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
-	- [Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
-- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
-- [Amazon Web Services](https://github.com/donnemartin/awesome-aws#readme)
-- [Windows](https://github.com/Awesome-Windows/Awesome#readme)
+- [Cross-Platform Node.js](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
 - [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - Create apps for different TV platforms.
@@ -47,10 +32,118 @@
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
 - [ESP](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications.
 - [Deno](https://github.com/denolib/awesome-deno#readme) - A secure runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
+- [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
+
+## Android
+
+- [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
+
+## Linux
+
+- [Linux](https://github.com/aleksandar-todorovic/awesome-linux#readme)
+- [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
+- [Linux eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine that allows you to write more efficient and powerful tracing and monitoring for Linux systems.
+
+## macOS
+
+- [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
+- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Operating system for Apple's Mac computers.
+- [macOS Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
+- [macOS Apps](https://github.com/jaywcjlove/awesome-mac#readme)
+- [macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
+- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch.
+
+## Windows
+
+- [Windows](https://github.com/Awesome-Windows/Awesome#readme)
+
 
 ## Programming Languages
 
 - [JavaScript](https://github.com/sorrycc/awesome-javascript#readme)
+- [Standard Style](https://github.com/standard/awesome-standard#readme) - Style guide and linter
+- [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - Linter
+- [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
+- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - A version of Python for microcontrollers
+- [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
+- [Go](https://github.com/avelino/awesome-go#readme)
+- [Dart](https://github.com/yissachar/awesome-dart#readme)
+
+## Front-End Development
+
+- [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
+- [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
+- [Web Tools](https://github.com/lvwzhen/tools#readme)
+
+## Back-End Development
+
+- [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server
+- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations
+- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
+- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure
+
+## Development Environment
+
+- [Shell](https://github.com/alebcay/awesome-shell#readme)
+- [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme)
+- [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories
+- [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
+- [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during `git` workflows
+- [SSH](https://github.com/moul/awesome-ssh#readme)
+- [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme)
+- [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub
+
+## Databases
+
+- [Database](https://github.com/numetriclabz/awesome-db#readme)
+- [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme)
+- [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) - Object-relational database.
+- [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier
+
+## Security
+
+- [Application Security](https://github.com/paragonie/awesome-appsec#readme)
+- [Security](https://github.com/sbilly/awesome-security#readme)
+- [Android Security](https://github.com/ashishb/android-security-awesome#readme)
+- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization
+- [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services
+- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data.
+- [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
+- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
+
+
+## Hardware
+
+- [Internet of Things](https://github.com/HQarroum/awesome-iot#readme)
+- [Electronics](https://github.com/kitspace/awesome-electronics#readme) - For electronic engineers and hobbyists.
+- [Bluetooth Beacons](https://github.com/rabschi/awesome-beacon#readme)
+- [Plotters](https://github.com/beardicus/awesome-plotters#readme) - Computer-controlled drawing machines and other visual art robots
+
+
+## Business
+
+- [Open Companies](https://github.com/opencompany/awesome-open-company#readme)
+- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting & communication best practices.
+- [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Leading people and being a manager in a technology company/environment.
+- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News
+- [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making
+
+
+## Networking
+
+- [Software-Defined Networking](https://github.com/sdnds-tw/awesome-sdn#readme)
+- [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
+- [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme)
+
+## Testing
+
+- [Testing](https://github.com/TheJambo/awesome-testing#readme) - Software testing
+- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style
+- [TAP](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
+- [k6](https://github.com/k6io/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution
+
+---
 
 Awesome energy control app software and hardware
 
@@ -129,7 +222,7 @@ Commercial support is available from many companies providing professional servi
 
 ### 3D CAD software [solvespace](https://snapcraft.io/solvespace) is [awesome](https://github.com/Symbian9/AWESOME-LDraw)
 
-### [EasyLogic.Studio ](https://www.easylogic.studio/) is awesome
+### [EasyLogic.Studio](https://www.easylogic.studio/) is awesome
 
 ### Blender [Blender.org](https://en.m.wikipedia.org/wiki/Blender_(software)/) is [awesome](https://github.com/paperbenni/awesome-blender/)
 
@@ -145,13 +238,11 @@ Commercial support is available from many companies providing professional servi
 
 ---
 
-##### what is awesome? - [awesome is a researched and carefully compiled curated list of things that can be personally recommended](https://github.com/sindresorhus/awesome)
-
 ##### what is Open Source? - [companies are encouraged to use, copy, and change software source code](https://en.m.wikipedia.org/wiki/Free_and_open-source_software)
 
 ##### what is Open Source about? - [it enables companies to modify source code and redistribute the software](https://en.m.wikipedia.org/wiki/Free_software_license)
 
-##### acknowledgments - only awesome is [awesome](https://github.com/sindresorhus/awesome/) lists about all kinds of interesting topics - [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us) - [the institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation)
+##### what is awesome? - [awesome is a researched and carefully compiled curated list of things that can be personally recommended] - acknowledgments - only awesome is [awesome](https://github.com/sindresorhus/awesome/) lists about all kinds of interesting topics - [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us) - [the institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation)
 
 ### [bestawesomesoftware.org](https://bestawesomesoftware.org)
 
