@@ -9,7 +9,6 @@
 
 - [Platforms](#platforms)
 - [Programming Languages](#programming-languages)
-- [Books](#books)
 - [Development Environment](#development-environment)
 - [Entertainment](#entertainment)
 - [Databases](#databases)
@@ -120,13 +119,17 @@ Commercial support is available from many companies providing professional servi
 
 #### solid 3D CAD software [OpenSCAD](https://en.m.wikipedia.org/wiki/OpenSCAD/) exports [AutoCAD DXF](https://en.m.wikipedia.org/wiki/AutoCAD_DXF/) is [awesome](https://github.com/willianjusten/awesome-svg/)
 
-#### army Ballistic Research Laboratory [BRL-CAD](https://en.m.wikipedia.org/wiki/BRL-CAD/) ballistic [solid modeling](https://en.m.wikipedia.org/wiki/Constructive_solid_geometry/) [CAD](https://brlcad.org/) uses [CSG](https://en.m.wikipedia.org/wiki/Constructive_solid_geometry/) modeling to [study physical phenomena such as ballistic penetration - thermal, radiative, neutron](http://brlcad.org/wiki/Overview#Why_CSG_Modeling.3F)
+#### army Ballistic Research Laboratory [BRL-CAD](https://en.m.wikipedia.org/wiki/BRL-CAD/) ballistic [solid modeling CAD](https://brlcad.org/)
+
+### CSG [Constructive Solid Geometry](https://en.m.wikipedia.org/wiki/Constructive_solid_geometry/) modeling to [study physical phenomena such as ballistic penetration - thermal, radiative, neutron](http://brlcad.org/wiki/Overview#Why_CSG_Modeling.3F)
 
 ##### [KiCad-PCB](https://kicad-pcb.org/) is an open-source electronics design automation suite [awesome](https://github.com/Academany/awesome-fabacademy/) and has [3rd party tools](https://github.com/xesscorp/kicad-3rd-party-tools/) and tools for [electrical installation](https://github.com/kirk-loeten/electrical-installation/)
 
 #### 2D [LibreCAD.org](https://librecad.org/) is [LibrePCB](https://librepcb.org/) software for printed circuit boards is [awesome](https://awesomeopensource.com/project/LibrePCB/LibrePCB). CNC is [awesome](https://github.com/Phreak87/Awesome-CNC)
 
-### 3D CAD software [solvespace](https://snapcraft.io/solvespace) is [awesome](https://github.com/Symbian9/AWESOME-LDraw). [EasyLogic.Studio ](https://www.easylogic.studio/) is awesome
+### 3D CAD software [solvespace](https://snapcraft.io/solvespace) is [awesome](https://github.com/Symbian9/AWESOME-LDraw)
+
+### [EasyLogic.Studio ](https://www.easylogic.studio/) is awesome
 
 ### Blender [Blender.org](https://en.m.wikipedia.org/wiki/Blender_(software)/) is [awesome](https://github.com/paperbenni/awesome-blender/)
 
@@ -148,7 +151,7 @@ Commercial support is available from many companies providing professional servi
 
 ##### what is Open Source about? - [it enables companies to modify source code and redistribute the software](https://en.m.wikipedia.org/wiki/Free_software_license)
 
-##### awesome acknowledgments and the [awesome-manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md#the-awesome-manifesto) -  [awesome](https://github.com/sindresorhus/awesome) lists about all kinds of interesting topics - [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us) - [the institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation) - only awesome is [awesome](https://github.com/sindresorhus/awesome/blob/master/awesome.md#only-awesome-is-awesome)
+##### acknowledgments - only awesome is [awesome](https://github.com/sindresorhus/awesome/) lists about all kinds of interesting topics - [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us) - [the institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation)
 
 ### [bestawesomesoftware.org](https://bestawesomesoftware.org)
 
