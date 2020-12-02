@@ -9,7 +9,7 @@
 
 - [Section](#section)
 - [Another Section](#another-section)
-
+- [Contribute](#Contribute)
 
 ## Section
 
@@ -32,11 +32,11 @@ About this section. Optional. Keep this short and focus on the list.
 Read the [contribution guidelines](contributing.md) first.
 
 
-## Awesome energy control app software and hardware
+Awesome energy control app software and hardware
 
-## A curated lists of [Awesome Open Source](https://github.com/cornelius/awesome-open-source/) organizations that offer Products and Services as open source [public projects](https://project-awesome.org/zachflower/awesome-open-source-supporters/)
+A curated lists of [Awesome Open Source](https://github.com/cornelius/awesome-open-source/) organizations that offer Products and Services as open source [public projects](https://project-awesome.org/zachflower/awesome-open-source-supporters/)
 
-## Commercial support is available from many companies providing professional services to the Open Source community.
+Commercial support is available from many companies providing professional services to the Open Source community.
 
 ### OPEN HARDWARE PROJECTS TO FIGHT [COVID-19](https://n-o-d-e.net/covid.html)
 
