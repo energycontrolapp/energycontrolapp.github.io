@@ -14,6 +14,7 @@
 - [Linux](#linux)
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
+- [Back-End Development](#back-end-development)
 - [Development Environment](#development-environment)
 - [Databases](#databases)
 - [Security](#security)
@@ -24,25 +25,25 @@
 
 ## Platforms
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Chrome JavaScript runtime engine
-- [Cross-Platform Node.js](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js
-- [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol
+- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Chrome JavaScript runtime engine.
+- [Cross-Platform Node.js](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - Writing cross-platform code on Node.js.
+- [IPFS](https://github.com/ipfs/awesome-ipfs#readme) - P2P hypermedia protocol.
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme)
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - Create apps for different TV platforms.
-- [Flutter](https://github.com/Solido/awesome-flutter#readme) - mobile SDK for building native iOS and Android apps
-- [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts local control and privacy first
-- [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies
-- [ESP](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and broad IoT applications
-- [Deno](https://github.com/denolib/awesome-deno#readme) - runtime for JavaScript and TypeScript that uses V8 and is built in Rust
+- [Flutter](https://github.com/Solido/awesome-flutter#readme) - mobile SDK for building native iOS and Android apps.
+- [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - Open source home automation that puts privacy first.
+- [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - Cloud platform for developers and companies.
+- [ESP](https://github.com/agucova/awesome-esp#readme) - Low-cost microcontrollers with WiFi and IoT applications.
+- [Deno](https://github.com/denolib/awesome-deno#readme) - runtime for JavaScript and TypeScript that uses V8 and is built in Rust.
 - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
 
 ## iOS
 
-- [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets
+- [iOS](https://github.com/vsouza/awesome-ios#readme) - Mobile operating system for Apple phones and tablets.
 
 ## Android
 
-- [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google
+- [Android](https://github.com/JStumpp/awesome-android#readme) - Mobile operating system developed by Google.
 
 ## Windows
 
@@ -50,17 +51,17 @@
 
 ## macOS
 
-- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Operating system for Apple Mac computers
+- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) - Operating system for Apple Mac computers.
 - [macOS Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 - [macOS Apps](https://github.com/jaywcjlove/awesome-mac#readme)
 - [macOS Open Source Apps](https://github.com/serhii-londar/open-source-mac-os-apps#readme)
-- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for the Apple Watch
+- [watchOS](https://github.com/yenchenlin/awesome-watchos#readme) - Operating system for  Apple Watch.
 
 ## Linux
 
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux#readme)
 - [Linux Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
-- [Linux eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine for tracing and monitoring
+- [Linux eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - Virtual machine for tracing and monitoring.
 
 ## Programming Languages
 
@@ -68,7 +69,7 @@
 - [Standard Style](https://github.com/standard/awesome-standard#readme)
 - [ESLint](https://github.com/dustinspecker/awesome-eslint#readme) - Linter
 - [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
-- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - Python for microcontrollers
+- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - Python for microcontrollers.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
 - [Go](https://github.com/avelino/awesome-go#readme)
 - [Dart](https://github.com/yissachar/awesome-dart#readme)
@@ -81,41 +82,40 @@
 
 ## Back-End Development
 
-- [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server
-- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations
-- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures
-- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure
+- [nginx](https://github.com/fcambus/nginx-resources#readme) - Web server.
+- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - Open-source platform that automates Linux container operations.
+- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) - Serverless computing and serverless architectures.
+- [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - Tool for building, changing, and versioning infrastructure.
 
 ## Development Environment
 
 - [Shell](https://github.com/alebcay/awesome-shell#readme)
 - [Command-Line Apps](https://github.com/agarrharr/awesome-cli-apps#readme)
-- [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories
+- [GitHub](https://github.com/phillipadsmith/awesome-github#readme) - Hosting service for Git repositories.
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
-- [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during git workflows
+- [Git Hooks](https://github.com/compscilauren/awesome-git-hooks#readme) - Scripts for automating tasks during git workflows.
 - [SSH](https://github.com/moul/awesome-ssh#readme)
 - [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme)
-- [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub
+- [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
 
 ## Databases
 
 - [Database](https://github.com/numetriclabz/awesome-db#readme)
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql#readme)
 - [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) - Object-relational database.
-- [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier
+- [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) - Software that makes working with databases easier.
 
 ## Security
 
 - [Application Security](https://github.com/paragonie/awesome-appsec#readme)
 - [Security](https://github.com/sbilly/awesome-security#readme)
 - [Android Security](https://github.com/ashishb/android-security-awesome#readme)
-- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization
+- [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
-- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services
-- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing technique that involves feeding pseudo-randomly generated input data
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web  services.
+- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - Automated software testing with randomly generated data.
 - [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security/)
-- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps)
-
+- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
 
 ## Hardware
 
@@ -124,15 +124,13 @@
 - [Bluetooth Beacons](https://github.com/rabschi/awesome-beacon#readme)
 - [Plotters](https://github.com/beardicus/awesome-plotters#readme)
 
-
 ## Business
 
 - [Open Companies](https://github.com/opencompany/awesome-open-company#readme)
-- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting & communication best practices
+- [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - Goal setting & communication best practices.
 - [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - Leading people and being a manager in a technology company/environment
-- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News
-- [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to help improve strategic planning and decision making
-
+- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - Tools used by companies on Hacker News.
+- [Wardley Maps](https://github.com/wardley-maps-community/awesome-wardley-maps#readme) - Provides high situational awareness to improve strategic planning and decision making.
 
 ## Networking
 
@@ -143,9 +141,9 @@
 ## Testing
 
 - [Testing](https://github.com/TheJambo/awesome-testing#readme) - Software testing
-- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style
-- [TAP](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol
-- [k6](https://github.com/k6io/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution
+- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
+- [TAP](https://github.com/sindresorhus/awesome-tap#readme) - Test Anything Protocol.
+- [k6](https://github.com/k6io/awesome-k6#readme) - Open-source, developer-centric performance monitoring and load testing solution.
 
 ---
 
