@@ -72,6 +72,11 @@ Commercial support and professional services are available from the open source 
 
 ## Standards
 
+![csa](csa.png)
+
+- [Canadian Standards Association](
+https://en.wikipedia.org/wiki/Canadian_Standards_Association)
+
 ![iso](iso.png)
 
 - [ISO50001](https://en.m.wikipedia.org/wiki/ISO_50001) - Standard for building energy management systems.
