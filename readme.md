@@ -16,12 +16,17 @@ Commercial support and professional services are available from the open source 
 - [Prevention](#prevention)
 - [Standards](#standards)
 - [Controls](#controls)
+- [Manufacturers](#manufacturers)
 - [BACnet](#bacnet)
 - [HVAC](#hvac)
 - [Building Codes](#building-codes)
 - [Magazines](#magazines)
 
 ## Safety
+
+- [Safety](https://en.wikipedia.org/wiki/Hierarchy_of_hazard_controls) - Hierarchy of Controls.
+
+![controlshierarchy](controlshierarchy.png)
 
 - [COVID-19](https://n-o-d-e.net/covid.html) - A showcase of open hardware projects to fight COVID-19.
 
@@ -43,23 +48,21 @@ Commercial support and professional services are available from the open source 
 
 - [Maintenance](https://en.m.wikipedia.org/wiki/Prevention_through_design) - Maintenance through design.
 
-- [Controls Hierarchy](https://en.wikipedia.org/wiki/Hierarchy_of_hazard_controls) - Hierarchy of hazard controls.
-
 ## Controls
-
-![controlshierarchy](controlshierarchy.png)
 
 - [Engineering Controls](https://en.wikipedia.org/wiki/Engineering_controls) - Engineering control strategies designed to protect.
 
+## Manufacturers
+
 - [Controls manufacturer](https://sunbeltcontrols.com/products/building-automation/reliable-controls/) - Reliable Controls manufacturer of smart building controls.
 
-- [Schneider](https://en.wikipedia.org/wiki/Schneider_Electric) - Energy and building automation solutions.
+- [Automation solutions](https://en.wikipedia.org/wiki/Schneider_Electric) - Schneider energy and building automation solutions.
 
 ## BACnet
 
-![bacnet](bacnetashraetm.png)
-
 - [BACnet Building Automation Control network](http://www.bacnet.org/) - ANSI  ISO Standard Communication Protocol for buildings. 
+
+![bacnet](bacnetashraetm.png)
 
 - [BACnet code](https://sourceforge.net/projects/bacnet/) - BACnet Protocol Stack C source code.
 
@@ -67,18 +70,15 @@ Commercial support and professional services are available from the open source 
 
 ## Standards
 
-![iso](iso.png)
-
 - [ISO50001](https://en.m.wikipedia.org/wiki/ISO_50001) - Standard for building energy management systems.
+
+![iso](iso.png)
 
 ## Magazines
 
-![hpacengineering](hpacengineering.png)
-
-
 - [HPAC Engineering](https://www.hpac.com/magazine) - HVAC and Building Automation Systems magazine.
 
-
+![hpacengineering](hpacengineering.png)
 
 
 ---
