@@ -4,7 +4,7 @@
 
 > Just the [best](https://bestawesomesoftware.github.io/), carefully curated set of [awesome](https://github.com/topics/awesome) lists about [**Energy Control App**](https://energycontrolapp.github.io/) software and hardware that **control energy** in any form. [**Energy Control App**](https://github.com/energycontrolapp/energycontrolapp.github.io/) lists [public,](https://project-awesome.org/zachflower/awesome-open-source-supporters/) [open source](https://github.com/cornelius/awesome-open-source/) projects that can **control energy** in any way at [awesome-energycontrolapp.](https://github.com/energycontrolapp/awesome-energycontrolapp)
 
-![awesome](https://energycontrolapp.github.io/awesome.svg)
+![awesome](awesome.svg)
 
 Commercial support and professional services are available from the open source community.
 
@@ -47,7 +47,7 @@ Commercial support and professional services are available from the open source 
 
 ## Controls
 
-![controlshierarchy](https://energycontrolapp.github.io/controlshierarchy.png)
+![controlshierarchy](controlshierarchy.png)
 
 - [Engineering Controls](https://en.wikipedia.org/wiki/Engineering_controls) - Engineering control strategies designed to protect.
 
@@ -57,23 +57,26 @@ Commercial support and professional services are available from the open source 
 
 ## BACnet
 
-![bacnet](https://energycontrolapp.github.io/bacnetashraetm.png)
+![bacnet](bacnetashraetm.png)
 
 - [BACnet Building Automation Control network](http://www.bacnet.org/) - ANSI  ISO Standard Communication Protocol for buildings. 
 
-- [BACnet code](https://sourceforge.net/projects/bacnet/) - BACnet source code.
+- [BACnet code](https://sourceforge.net/projects/bacnet/) - BACnet Protocol Stack C source code.
 
-- [ASHRAE](https://www.ashrae.org/) American Society of Heating, Refrigerating and Air-Conditioning Engineers.
+- [ASHRAE](https://www.ashrae.org/) - American Society of Heating, Refrigerating and Air-Conditioning Engineers.
 
 ## Standards
 
-- [ISO50001](https://en.m.wikipedia.org/wiki/ISO_50001) - Standard for building energy management systems.
+![iso](iso.png)
 
-![iso](https://energycontrolapp.github.io/iso.png)
+- [ISO50001](https://en.m.wikipedia.org/wiki/ISO_50001) - Standard for building energy management systems.
 
 ## Magazines
 
-- [HPAC Engineering](https://www.hpac.com/) - HVAC and Building Automation Systems magazine.
+![hpacengineering](hpacengineering.png)
+
+
+- [HPAC Engineering](https://www.hpac.com/magazine) - HVAC and Building Automation Systems magazine.
 
 
 
