@@ -12,7 +12,7 @@ Commercial support and professional services are available from the open source 
 
 - [Safety](#safety)
 - [Security](#security)
-- [Business](#business)
+- [Companies](#companies)
 
 ## Safety
 
@@ -22,7 +22,7 @@ Commercial support and professional services are available from the open source 
 
 - [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps](https://en.wikipedia.org/wiki/DevOps).
 
-## Business
+## Companies
 
 - [Red Hat](https://www.redhat.com/en/about/our-community-contributions/) - A software company with an open source development model.
 - [GitLab](https://gitlab.com/gitlab-org/) - An open core, public by default software company.
