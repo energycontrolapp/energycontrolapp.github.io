@@ -6,9 +6,9 @@
 
 [![awesome](https://energycontrolapp.github.io/badge.svg)](https://energycontrolapp.github.io/)
 
-Commercial support and professional services are available from the open source community. Contact the [**Energy Control App**](https://energycontrolapp.com/) team here.
+Commercial support and professional services are available from the open source community. Contact the [**Energy Control App**](https://energycontrolapp.github.io/) team here.
 
-## Contents
+## Support
 
 - [Safety](#safety)
 - [Security](#security)
