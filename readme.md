@@ -22,29 +22,29 @@ Commercial support and professional services are available from the open source 
 
 ## Security
 
-- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps.](https://en.wikipedia.org/wiki/DevOps)
+- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps.](https://en.m.wikipedia.org/wiki/DevOps)
 
 ## Protection
 
-- [Electrical Protection](https://en.wikipedia.org/wiki/Power_system_protection) - Protection of electrical power systems from faults.
+- [Electrical Protection](https://en.m.wikipedia.org/wiki/Power_system_protection) - Protection of electrical power systems from faults.
 
 ## Hazards
 
-- [Hazard_elimination](https://en.wikipedia.org/wiki/Hazard_elimination) - Protection of electrical power systems from faults.
+- [Hazard_elimination](https://en.m.wikipedia.org/wiki/Hazard_elimination) - Protection of electrical power systems from faults.
 
 ## Prevention
 
-- [PtD](https://en.wikipedia.org/wiki/Prevention_through_design) - Prevention through design.
+- [PtD](https://en.m.wikipedia.org/wiki/Prevention_through_design) - Prevention through design.
 
 ## Controls
 
-- [Controls](https://en.wikipedia.org/wiki/Engineering_controls) - Standard for building energy management systems.
+- [Hazard controls](https://en.wikipedia.org/wiki/Hierarchy_of_hazard_controls) - Hierarchy of hazard controls.
 
-[![controls-hierarchy](https://energycontrolapp.github.io/controls-hierarchy.svg)](https://energycontrolapp.github.io/)
+[![controlshierarchy](https://energycontrolapp.github.io/controlshierarchy.svg)](https://energycontrolapp.github.io/controlshierarchy.svg)
 
 ## Standards
 
-- [ISO50001](https://en.wikipedia.org/wiki/ISO_50001) - Standard for building energy management systems.
+- [ISO50001](https://en.m.wikipedia.org/wiki/ISO_50001) - Standard for building energy management systems.
 
 - [BACnet](http://www.bacnet.org/) - ASHRAE, ANSI, and ISO 16484-5 standard  Communication Protocol for buildings.
 
