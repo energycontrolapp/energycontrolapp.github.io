@@ -16,6 +16,11 @@ Commercial support and professional services are available from the open source 
 - [Prevention](#prevention)
 - [Standards](#standards)
 - [Controls](#controls)
+- [BACnet](#bacnet)
+- [HVAC](#hvac)
+- [Building Codes](#building-codes)
+- [Magazines](#magazines)
+
 
 ## Safety
 
@@ -27,40 +32,57 @@ Commercial support and professional services are available from the open source 
 
 - [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps.](https://en.m.wikipedia.org/wiki/DevOps)
 
-## Protections
+## Protection
 
 - [Electrical Protection](https://en.m.wikipedia.org/wiki/Power_system_protection) - Protection of electrical power systems from faults.
-
-## Hazards
 
 - [Hazard_elimination](https://en.m.wikipedia.org/wiki/Hazard_elimination) - Protection of electrical power systems from faults.
 
 ## Prevention
 
-- [PtD](https://en.m.wikipedia.org/wiki/Prevention_through_design) - Prevention through design.
+- [PtD](https://en.m.wikipedia.org/wiki/Prevention_through_design) - Prevention through Design.
 
-## Controls
+- [Maintenance](https://en.m.wikipedia.org/wiki/Prevention_through_design) - Maintenance through design.
 
 - [Controls Hierarchy](https://en.wikipedia.org/wiki/Hierarchy_of_hazard_controls) - Hierarchy of hazard controls.
 
-[![controlshierarchy](https://energycontrolapp.github.io/controlshierarchy.svg)](https://energycontrolapp.github.io/controlshierarchy.svg)
+## Controls
+
+[![controlshierarchy](https://energycontrolapp.github.io/controlshierarchy.svg)
 
 - [Engineering Controls](https://en.wikipedia.org/wiki/Engineering_controls) - Engineering control strategies designed to protect.
 
-- [BACnet](http://www.bacnet.org/) - ANSI and ISO 16484-5 standard Communication Protocol for buildings. BACnet is a registered trademark of American Society of Heating, Refrigerating and Air-Conditioning Engineers (ASHRAE).
+- [Controls manufacturer](https://sunbeltcontrols.com/products/building-automation/reliable-controls/) - Reliable Controls manufacturer of smart building controls.
 
-[![bacnet](https://energycontrolapp.github.io/bacnet.gif)](https://energycontrolapp.github.io/bacnet.gif)
+- [Schneider](https://en.wikipedia.org/wiki/Schneider_Electric) - Energy and building automation solutions.
 
-- [BACnet International](https://www.bacnetinternational.org/) - Building automation and control systems.
+## BACnet
 
-[![bacnetinternational](https://energycontrolapp.github.io/bacnetinternational.png)](https://energycontrolapp.github.io/bacnetinternational.png)
+![bacnet](https://energycontrolapp.github.io/bacnet.gif)
+
+- [BACnet Building Automation Control network](http://www.bacnet.org/) - ANSI  ISO Standard Communication Protocol for buildings. 
+
+- [BACnet code](https://sourceforge.net/projects/bacnet/) - BACnet source code.
+
+- [ASHRAE](https://www.ashrae.org/) American Society of Heating, Refrigerating and Air-Conditioning Engineers.
 
 ## Standards
 
 - [ISO50001](https://en.m.wikipedia.org/wiki/ISO_50001) - Standard for building energy management systems.
 
+![iso](https://energycontrolapp.github.io/iso.png)
+
+## Magazines
+
+- [HPAC Engineering](https://www.hpac.com/) - HVAC and Building Automation Systems Magazine.
 
 
+
+
+---
+
+
+---
 
 
 ---
