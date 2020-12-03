@@ -11,30 +11,30 @@ Commercial support and professional services are available from the open source 
 ## Support
 
 - [Safety](#safety)
-- [Security](#security)
-- [Protection](#protection)
-- [Prevention](#prevention)
-- [Standards](#standards)
 - [Controls](#controls)
-- [Manufacturers](#manufacturers)
-- [BACnet](#bacnet)
+- [Protection](#protection)
+- [Security](#security)
+- [Protocols](#protocols)
 - [HVAC](#hvac)
+- [Fire Alarms](#fire-alarms)
 - [Building Codes](#building-codes)
+- [Standards](#standards)
+- [Manufacturers](#manufacturers)
 - [Magazines](#magazines)
 
 ## Safety
 
-- [Safety](https://en.wikipedia.org/wiki/Hierarchy_of_hazard_controls) - Hierarchy of Controls.
+- [Safety](https://en.m.wikipedia.org/wiki/Hierarchy_of_hazard_controls) - Hierarchy of Controls.
 
 ![controlshierarchy](controlshierarchy.png)
 
 - [COVID-19](https://n-o-d-e.net/covid.html) - A showcase of open hardware projects to fight COVID-19.
 
-- [Masks](https://en.wikipedia.org/wiki/NIOSH_air_filtration_rating) - Air filtration respirators.
+- [Masks](https://en.m.wikipedia.org/wiki/NIOSH_air_filtration_rating) - Air filtration respirators.
 
-## Security
+## Controls
 
-- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps.](https://en.m.wikipedia.org/wiki/DevOps)
+- [Engineering Controls](https://en.m.wikipedia.org/wiki/Engineering_controls) - Engineering control strategies designed to protect.
 
 ## Protection
 
@@ -42,23 +42,13 @@ Commercial support and professional services are available from the open source 
 
 - [Hazard_elimination](https://en.m.wikipedia.org/wiki/Hazard_elimination) - Protection of electrical power systems from faults.
 
-## Prevention
-
 - [PtD](https://en.m.wikipedia.org/wiki/Prevention_through_design) - Prevention through Design.
 
-- [Maintenance](https://en.m.wikipedia.org/wiki/Prevention_through_design) - Maintenance through design.
+## Security
 
-## Controls
+- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps.](https://en.m.wikipedia.org/wiki/DevOps)
 
-- [Engineering Controls](https://en.wikipedia.org/wiki/Engineering_controls) - Engineering control strategies designed to protect.
-
-## Manufacturers
-
-- [Controls manufacturer](https://sunbeltcontrols.com/products/building-automation/reliable-controls) - Reliable Controls manufacturer of smart building controls.
-
-- [Automation solutions](https://en.wikipedia.org/wiki/Schneider_Electric) - Schneider energy and building automation solutions.
-
-## BACnet
+## Protocols
 
 - [BACnet Building Automation Control network](http://www.bacnet.org) - ANSI  ISO Standard Communication Protocol for buildings. 
 
@@ -68,11 +58,29 @@ Commercial support and professional services are available from the open source 
 
 - [ASHRAE](https://www.ashrae.org) - American Society of Heating, Refrigerating and Air-Conditioning Engineers.
 
+## HVAC
+
+- [HVAC](https://en.m.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning) - Heating ventilation and air conditioning.
+
+## Fire Alarms
+
+- [Fire Alarms](https://en.m.wikipedia.org/wiki/Fire_alarm_system) - Fire alarm systems.
+
+## Building Codes
+
+- [Building codes](https://en.m.wikipedia.org/wiki/Building_code) - Building codes.
+
 ## Standards
 
 - [ISO50001](https://en.m.wikipedia.org/wiki/ISO_50001) - Standard for building energy management systems.
 
 ![iso](iso.png)
+
+## Manufacturers
+
+- [Controls manufacturer](https://sunbeltcontrols.com/products/building-automation/reliable-controls) - Reliable Controls manufacturer of smart building controls.
+
+- [Automation solutions](https://en.m.wikipedia.org/wiki/Schneider_Electric) - Schneider energy and building automation solutions.
 
 ## Magazines
 
