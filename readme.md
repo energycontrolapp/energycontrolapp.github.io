@@ -2,15 +2,18 @@
 
 # [Energy Control App](https://energycontrolapp.github.io/)
 
-> A carefully curated list of [Awesome Open Source](https://github.com/cornelius/awesome-open-source/) Open Source Products and Services [public projects](https://project-awesome.org/zachflower/awesome-open-source-supporters/)
+> Carefully curated lists of [Energy Control App](https://energycontrolapp.github.io/) Software and Hardware. [**Energy Control App**](https://energycontrolapp.github.io/) is a list of [Awesome](https://github.com/sindresorhus/awesome) [Public](https://project-awesome.org/zachflower/awesome-open-source-supporters/) [Open Source](https://github.com/cornelius/awesome-open-source/) Products and Services that Control Energy.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Commercial support is available from many companies providing professional services to the Open Source community.
+Commercial support and professional services are available from the Open Source community.
+
+
+# Safety
 
 ### OPEN HARDWARE PROJECTS TO FIGHT [COVID-19](https://n-o-d-e.net/covid.html)
 
-### a list of resources about writing [SAFETY](https://github.com/sebastianschuler/awesome-safety-critical/) critical software
+### a list of resources about writing [safety](https://github.com/sebastianschuler/awesome-safety-critical/) critical software
 
 ### Open Source Electronic Parts Inventory Management Databases [Part-DB](https://github.com/Part-DB/Part-DB/) [partkeepr](https://partkeepr.org/)
 
@@ -104,10 +107,6 @@ Commercial support is available from many companies providing professional servi
 > A carefully curated list of just the Best Awesome Software.
  
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-
----
-
 
 ## Contents
 
