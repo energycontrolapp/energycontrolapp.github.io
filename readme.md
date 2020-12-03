@@ -1,12 +1,10 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-# Awesome Energy Control App
+# [Energy Control App](https://energycontrolapp.github.io/)
 
-> A carefully curated list of Awesome Software and Hardware to control energy, manage electricity and HVAC. There is an App for that: Energy Control App.
- 
+> A carefully curated list of [Awesome Open Source](https://github.com/cornelius/awesome-open-source/) Open Source Products and Services [public projects](https://project-awesome.org/zachflower/awesome-open-source-supporters/)
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-A curated lists of [Awesome Open Source](https://github.com/cornelius/awesome-open-source/) organizations that offer Products and Services as open source [public projects.](https://project-awesome.org/zachflower/awesome-open-source-supporters/)
 
 Commercial support is available from many companies providing professional services to the Open Source community.
 
@@ -98,7 +96,15 @@ Commercial support is available from many companies providing professional servi
 
 ##### [awesomefoundation.org](https://www.awesomefoundation.org/en/about_us) - [the institute of higher awesome studies](https://en.m.wikipedia.org/wiki/Awesome_Foundation)
 
-### [bestawesomesoftware.org](https://bestawesomesoftware.org/)
+
+---
+
+# [bestawesomesoftware.github.io](https://bestawesomesoftware.github.io/)
+
+> A carefully curated list of just the Best Awesome Software.
+ 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 
 ---
 
@@ -328,9 +334,4 @@ Commercial support is available from many companies providing professional servi
 - [All Awesome Lists](https://github.com/topics/awesome) - All the Awesome lists on GitHub.
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
-
-
-
-
-
 
