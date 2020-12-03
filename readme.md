@@ -4,7 +4,7 @@
 
 > Just the [best](https://bestawesomesoftware.github.io/), carefully curated set of [awesome](https://github.com/topics/awesome) lists about [**Energy Control App**](https://energycontrolapp.github.io/) software and hardware that **control energy** in any form. [**Energy Control App**](https://github.com/energycontrolapp/energycontrolapp.github.io/) lists [public,](https://project-awesome.org/zachflower/awesome-open-source-supporters/) [open source](https://github.com/cornelius/awesome-open-source/) projects that can **control energy** in any way at [awesome-energycontrolapp.](https://github.com/energycontrolapp/awesome-energycontrolapp)
 
-![awesome](https://energycontrolapp.github.io/badge.svg)
+![awesome](https://energycontrolapp.github.io/awesome.svg)
 
 Commercial support and professional services are available from the open source community.
 
@@ -47,7 +47,7 @@ Commercial support and professional services are available from the open source 
 
 ## Controls
 
-[![controlshierarchy](https://energycontrolapp.github.io/controlshierarchy.png)
+![controlshierarchy](https://energycontrolapp.github.io/controlshierarchy.png)
 
 - [Engineering Controls](https://en.wikipedia.org/wiki/Engineering_controls) - Engineering control strategies designed to protect.
 
@@ -57,7 +57,7 @@ Commercial support and professional services are available from the open source 
 
 ## BACnet
 
-![bacnet](https://energycontrolapp.github.io/bbacnetashraetm.png)
+![bacnet](https://energycontrolapp.github.io/bacnetashraetm.png)
 
 - [BACnet Building Automation Control network](http://www.bacnet.org/) - ANSI  ISO Standard Communication Protocol for buildings. 
 
