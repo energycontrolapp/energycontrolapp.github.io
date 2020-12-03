@@ -12,9 +12,10 @@ Commercial support and professional services are available from the open source 
 
 - [Safety](#safety)
 - [Security](#security)
-- [Protection](#Protection)
-- [Prevention](#Prevention)
-- [Standards](#Standards)
+- [Protection](#protection)
+- [Prevention](#prevention)
+- [Standards](#standards)
+- [Controls](#controls)
 
 ## Safety
 
