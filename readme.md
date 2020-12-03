@@ -24,9 +24,9 @@ Commercial support and professional services are available from the open source 
 
 ## Safety
 
-- [Safety](https://en.m.wikipedia.org/wiki/Hierarchy_of_hazard_controls) - Hierarchy of Controls.
-
 ![controlshierarchy](controlshierarchy.png)
+
+- [Safety](https://en.m.wikipedia.org/wiki/Hierarchy_of_hazard_controls) - Hierarchy of Controls.
 
 - [COVID-19](https://n-o-d-e.net/covid.html) - A showcase of open hardware projects to fight COVID-19.
 
@@ -50,9 +50,9 @@ Commercial support and professional services are available from the open source 
 
 ## Protocols
 
-- [BACnet Building Automation Control network](http://www.bacnet.org) - ANSI  ISO Standard Communication Protocol for buildings. 
-
 ![bacnet](bacnetashraetm.png)
+
+- [BACnet Building Automation Control network](http://www.bacnet.org) - ANSI  ISO Standard Communication Protocol for buildings. 
 
 - [BACnet code](https://sourceforge.net/projects/bacnet) - BACnet Protocol Stack C source code.
 
@@ -72,9 +72,9 @@ Commercial support and professional services are available from the open source 
 
 ## Standards
 
-- [ISO50001](https://en.m.wikipedia.org/wiki/ISO_50001) - Standard for building energy management systems.
-
 ![iso](iso.png)
+
+- [ISO50001](https://en.m.wikipedia.org/wiki/ISO_50001) - Standard for building energy management systems.
 
 ## Manufacturers
 
@@ -84,15 +84,9 @@ Commercial support and professional services are available from the open source 
 
 ## Magazines
 
-- [HPAC Engineering](https://www.hpac.com/magazine) - HVAC and Building Automation Systems magazine.
-
 ![hpacengineering](hpacengineering.png)
 
-
----
-
-
----
+- [HPAC Engineering](https://www.hpac.com/magazine) - HVAC and Building Automation Systems magazine.
 
 
 ---
