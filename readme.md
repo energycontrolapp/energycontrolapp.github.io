@@ -72,11 +72,11 @@ Commercial support and professional services are available from the open source 
 
 ## Standards
 
-- [CCanadian Electrical Code](https://en.wikipedia.org/wiki/Canadian Electrical Code)
+- [Canadian Electrical Code](https://en.wikipedia.org/wiki/Canadian Electrical Code) - Canadian Electrical Code.
 
 > ![csa](csa.png)
 
-- [ISO50001](https://en.m.wikipedia.org/wiki/ISO_50001) - Standard for building energy management systems.
+- [ISO50001](https://en.m.wikipedia.org/wiki/ISO_50001) - ISO Standards for building energy management systems.
 
 > ![iso](iso.png)
 
