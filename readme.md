@@ -91,7 +91,7 @@ https://en.wikipedia.org/wiki/Canadian_Standards_Association)
 
 ![hpacengineering](hpacengineering.png)
 
-- [HPAC Engineering](https://www.hpac.com/magazine) - HVAC and Building Automation Systems magazine.
+- [HPAC Engineering] (https://www.hpac.com/magazine)  -  HVAC and Building Automation Systems magazine.
 
 
 ---
