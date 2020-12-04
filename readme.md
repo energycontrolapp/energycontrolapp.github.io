@@ -96,7 +96,7 @@ Commercial support and professional services are available from the open source 
 
 - [HPAC Engineering](https://www.hpac.com/magazine) - HVAC and Building Automation Systems magazine.
 
->  ![hpacengineering](hpacengineering.png)
+> ![hpacengineering](hpacengineering.png)
 
 ---
 
