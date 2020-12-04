@@ -20,7 +20,9 @@ Commercial support and professional services are available from the open source 
 - [Building Codes](#building-codes)
 - [Standards](#standards)
 - [Manufacturers](#manufacturers)
+- [Appliances](#appliances)
 - [Magazines](#magazines)
+
 
 ## Safety
 
@@ -85,6 +87,10 @@ Commercial support and professional services are available from the open source 
 - [Controls manufacturer](https://sunbeltcontrols.com/products/building-automation/reliable-controls) - Reliable Controls manufacturer of smart building controls.
 
 - [Automation solutions](https://en.m.wikipedia.org/wiki/Schneider_Electric) - Schneider energy and building automation solutions.
+
+## Appliances
+
+- [Appliances](https://en.wikipedia.org/wiki/Major_appliance) - Major appliance troubleshoot and repair.
 
 ## Magazines
 
