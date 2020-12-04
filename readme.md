@@ -108,7 +108,13 @@ Commercial support and professional services are available from the open source 
 
 > ![energystar.png](energystar.png)
 
-- [Electronics](https://github.com/kitspace/awesome-electronics) - Electronic engineer resources.
+- [Circuits](https://github.com/Xndr7/awesome-circuits) - Electronic circuits and components.
+
+- [Electronics](https://github.com/kitspace/awesome-electronics) - CAD electronic resources.
+
+- [Electronics](https://github.com/SergioGasquez/awesome-electronic-engineering) - Electronic Engineering Learning resouces.
+
+- [Electronics DIY](https://github.com/techgaun/awesome-electronics) - DIY electronic resources.
 
 ## Batteries
 
