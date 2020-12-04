@@ -24,7 +24,9 @@ Commercial support and professional services are available from the open source 
 
 ## Safety
 
+<p style="text-align:center;">
 ![controlshierarchy](controlshierarchy.png)
+</p>
 
 - [Safety](https://en.m.wikipedia.org/wiki/Hierarchy_of_hazard_controls) - Hierarchy of Controls.
 
@@ -50,11 +52,11 @@ Commercial support and professional services are available from the open source 
 
 ## Protocols
 
-![bacnet](bacnetashraetm.png)
-
 - [BACnet Building Automation Control network](http://www.bacnet.org) - ANSI  ISO Standard Communication Protocol for buildings. 
 
 - [BACnet code](https://sourceforge.net/projects/bacnet) - BACnet Protocol Stack C source code.
+
+![bacnet](bacnetashraetm.png)
 
 - [ASHRAE](https://www.ashrae.org) - American Society of Heating, Refrigerating and Air-Conditioning Engineers.
 
@@ -72,14 +74,14 @@ Commercial support and professional services are available from the open source 
 
 ## Standards
 
-![csa](csa.png)
-
 - [Canadian Standards Association](
 https://en.wikipedia.org/wiki/Canadian_Standards_Association)
 
-![iso](iso.png)
+![csa](csa.png)
 
 - [ISO50001](https://en.m.wikipedia.org/wiki/ISO_50001) - Standard for building energy management systems.
+
+![iso](iso.png)
 
 ## Manufacturers
 
