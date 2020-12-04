@@ -15,6 +15,7 @@ Commercial support and professional services are available from the open source 
 - [Protection](#protection)
 - [Security](#security)
 - [Protocols](#protocols)
+- [Software](#software)
 - [HVAC](#hvac)
 - [Fire Alarms](#fire-alarms)
 - [Building Codes](#building-codes)
@@ -60,6 +61,12 @@ Commercial support and professional services are available from the open source 
 
 - [ASHRAE](https://www.ashrae.org) - American Society of Heating, Refrigerating and Air-Conditioning Engineers.
 
+## Software
+
+- [Apache OFbiz](https://ofbiz.apache.org) - Open Source Enterprise Resource Planning system.
+
+> ![apacheofbiz](apacheofbiz.png)
+
 ## HVAC
 
 - [HVAC](https://en.m.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning) - Heating ventilation and air conditioning.
@@ -90,13 +97,11 @@ Commercial support and professional services are available from the open source 
 
 ## Appliances
 
-- [CMMS](https://en.wikipedia.org/wiki/Computerized_maintenance_management_system) - Computerized maintenance management systems.
+- [Digi](https://en.wikipedia.org/wiki/Digi_International) - Digi Industrial Internet of Things.
 
-- [Apache OFbiz](https://ofbiz.apache.org) - Open source Computerized Maintenance Management System.
+- [Energy Star](https://en.wikipedia.org/wiki/Energy_Star) - Certified energy-efficient products.
 
-- [Appliances](https://en.wikipedia.org/wiki/Major_appliance) - Major appliance troubleshoot and repair.
-
-
+> ![energystar.png](energystar.png)
 
 ## Magazines
 
