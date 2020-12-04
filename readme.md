@@ -13,7 +13,7 @@ Commercial support and professional services are available from the open source 
 - [Safety](#safety)
 - [Controls](#controls)
 - [Protection](#protection)
-- [Security](#security)
+- [Physical Security](#physical-security)
 - [Protocols](#protocols)
 - [Software](#software)
 - [HVAC](#hvac)
@@ -21,7 +21,8 @@ Commercial support and professional services are available from the open source 
 - [Building Codes](#building-codes)
 - [Standards](#standards)
 - [Manufacturers](#manufacturers)
-- [Appliances](#appliances)
+- [Electronics](#electronics)
+- [Batteries](#batteries)
 - [Magazines](#magazines)
 
 
@@ -47,9 +48,13 @@ Commercial support and professional services are available from the open source 
 
 - [PtD](https://en.m.wikipedia.org/wiki/Prevention_through_design) - Prevention through Design.
 
-## Security
+## Physical Security
 
-- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices.
+- [RFID](https://github.com/rfidtool/ESP-RFID-Tool) - Wiegand RFID testing.
+
+- [Physical Security](https://github.com/l373/Awesome-PhySec) - PhySec repository.
+
+- [Access Control](https://github.com/l373/Awesome-PhySec) - Gallagher Cardax access control system.
 
 ## Protocols
 
@@ -95,13 +100,20 @@ Commercial support and professional services are available from the open source 
 
 - [Automation solutions](https://en.m.wikipedia.org/wiki/Schneider_Electric) - Schneider energy and building automation solutions.
 
-## Appliances
+## Electronics
 
 - [Digi](https://en.wikipedia.org/wiki/Digi_International) - Digi Industrial Internet of Things.
 
 - [Energy Star](https://en.wikipedia.org/wiki/Energy_Star) - Certified energy-efficient products.
 
 > ![energystar.png](energystar.png)
+
+- [Electronics](https://github.com/kitspace/awesome-electronics) - Electronic engineer resources.
+
+## Batteries
+
+- [Batteries](https://github.com/protontypes/open-sustainable-technology) - Energy Storage and battery management.
+
 
 ## Magazines
 
