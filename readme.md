@@ -24,9 +24,7 @@ Commercial support and professional services are available from the open source 
 
 ## Safety
 
-<p style="text-align:center;">
 ![controlshierarchy](controlshierarchy.png)
-</p>
 
 - [Safety](https://en.m.wikipedia.org/wiki/Hierarchy_of_hazard_controls) - Hierarchy of Controls.
 
@@ -74,14 +72,13 @@ Commercial support and professional services are available from the open source 
 
 ## Standards
 
-- [Canadian Standards Association](
-https://en.wikipedia.org/wiki/Canadian_Standards_Association)
+- [CCanadian Electrical Code](https://en.wikipedia.org/wiki/Canadian Electrical Code)
 
-![csa](csa.png)
+> ![csa](csa.png)
 
 - [ISO50001](https://en.m.wikipedia.org/wiki/ISO_50001) - Standard for building energy management systems.
 
-![iso](iso.png)
+> ![iso](iso.png)
 
 ## Manufacturers
 
@@ -91,10 +88,9 @@ https://en.wikipedia.org/wiki/Canadian_Standards_Association)
 
 ## Magazines
 
-![hpacengineering](hpacengineering.png)
-
 - [HPAC Engineering](https://www.hpac.com/magazine) - HVAC and Building Automation Systems magazine.
 
+>  ![hpacengineering](hpacengineering.png)
 
 ---
 
