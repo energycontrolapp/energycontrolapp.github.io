@@ -46,7 +46,7 @@ Commercial support and professional services are available from the open source 
 
 ## Security
 
-- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices into [DevOps.](https://en.m.wikipedia.org/wiki/DevOps)
+- [DevSecOps](https://github.com/TaptuIT/awesome-devsecops#readme) - Integration of security practices.
 
 ## Protocols
 
