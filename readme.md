@@ -90,7 +90,13 @@ Commercial support and professional services are available from the open source 
 
 ## Appliances
 
+- [CMMS](https://en.wikipedia.org/wiki/Computerized_maintenance_management_system) - Computerized maintenance management systems.
+
+- [Apache OFbiz](https://ofbiz.apache.org) - Open source Computerized Maintenance Management System.
+
 - [Appliances](https://en.wikipedia.org/wiki/Major_appliance) - Major appliance troubleshoot and repair.
+
+
 
 ## Magazines
 
