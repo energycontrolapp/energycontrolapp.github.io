@@ -16,6 +16,8 @@ Commercial support and professional services are available from the open source 
 - [Physical Security](#physical-security)
 - [Protocols](#protocols)
 - [Software](#software)
+- [Assembly](#assembly)
+- [Rust](#rust)
 - [HVAC](#hvac)
 - [Fire Alarms](#fire-alarms)
 - [Building Codes](#building-codes)
@@ -71,6 +73,16 @@ Commercial support and professional services are available from the open source 
 - [Apache OFbiz](https://ofbiz.apache.org) - Open Source Enterprise Resource Planning system.
 
 > ![apacheofbiz](apacheofbiz.png)
+
+## Rust
+
+- [Rust](https://www.rust-lang.org/) - Rust Programming Language.
+
+- [Embedded](https://github.com/rust-embedded/awesome-embedded-rust) - Embedded Rust.
+
+- [Unofficial](https://github.com/rust-unofficial/awesome-rust) - Unofficial Rust resources.
+
+- [Yew](https://github.com/jetli/awesome-yew) - Yew is Rust and WASM for creating multi-threaded apps with WebAssembly.
 
 ## HVAC
 
