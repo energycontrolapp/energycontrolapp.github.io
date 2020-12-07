@@ -6,7 +6,7 @@
 
 ![awesome](awesome.svg)
 
-Commercial support and professional services are available on a paid basis from open source community members.
+Commercial support and professional services are available from Open Source hardware and software Developers.
 
 ## Commercial
 
@@ -24,7 +24,7 @@ Commercial support and professional services are available on a paid basis from 
 - [Electronics](#electronics)
 - [Batteries](#batteries)
 - [Magazines](#magazines)
-- [**Open Source**](#open-source)
+- [**Open-Source**](#open-source)
 
 ## Safety
 
@@ -110,53 +110,25 @@ Commercial support and professional services are available on a paid basis from 
 
 ---
 
-.
-
----
-
-.
-
----
-
-.
-
----
-
-.
-
----
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-# [Awesome](https://project-awesome.org/zachflower/awesome-open-source-supporters) [Energy Control App](https://github.com/energycontrolapp/awesome-energycontrolapp) [open source](https://github.com/cornelius/awesome-open-source) List
+# [Awesome](https://project-awesome.org/zachflower/awesome-open-source-supporters) [Open Source](https://github.com/cornelius/awesome-open-source)  [Energy Control App](https://github.com/energycontrolapp/awesome-energycontrolapp) Software and Hardware
 
-> [**Energy Control App**](https://github.com/energycontrolapp/energycontrolapp.github.io) Awesome List features [public,](https://project-awesome.org/zachflower/awesome-open-source-supporters) [open source](https://github.com/cornelius/awesome-open-source) projects that **control energy** in any way at [awesome-energycontrolapp.](https://github.com/energycontrolapp/awesome-energycontrolapp)
+> [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energycontrolapp) is an [Awesome](https://project-awesome.org/zachflower/awesome-open-source-supporters) List of  [Open Source](https://github.com/cornelius/awesome-open-source) projects that **control energy**.
 
 ![awesome](awesome.svg)
 
 Support provided by the open source community forums.
 
-## Open Source
+## Open-Source
 
-- [Physical Security](#physical-security)
-- [Protocols](#protocols)
-- [Software](#software)
-- [Assembly](#assembly)
-- [Fire Alarms](#fire-alarms)
-- [Building Codes](#building-codes)
-- [open-source-electronics](#open-source-electronics)
-- [Open Source](#open-source)
-- [Physical Security](https://github.com/l373/Awesome-PhySec) - PhySec repository.
-- [Access Control](https://github.com/l373/Awesome-PhySec) - Gallagher Cardax access control system.
-
-## Protocols
-
-- [BACnet code](https://sourceforge.net/projects/bacnet) - BACnet Protocol Stack C source code.
-
-![bacnet](bacnetashraetm.png)
-
-- [ASHRAE](https://www.ashrae.org) - American Society of Heating, Refrigerating and Air-Conditioning Engineers.
+- [Physical-Security](#physical-security)
+- [Circuits](#open-source-circuits)
 
 
+## Physical Security
+
+- [Physical-Security](https://github.com/l373/Awesome-PhySec) - PhySec repository.
 
 ## Rust
 
@@ -166,16 +138,16 @@ Support provided by the open source community forums.
 
 - [Unofficial](https://github.com/rust-unofficial/awesome-rust) - Unofficial Rust resources.
 
-## Electronics
+## Circuits
 
-- [Circuits](https://github.com/Xndr7/awesome-circuits) - Electronic circuits and components.
+- [awesome-circuits](https://github.com/Xndr7/awesome-circuits) - Electronic circuits and components.
 
-- [Electronics](https://github.com/kitspace/awesome-electronics) - CAD electronic resources.
+- [awesome-electronics](https://github.com/kitspace/awesome-electronics) - CAD electronic resources.
 
-- [Electronics](https://github.com/SergioGasquez/awesome-electronic-engineering) - Electronic Engineering Learning resouces.
+- [awesome-electronic-engineering](https://github.com/SergioGasquez/awesome-electronic-engineering) - Electronic Engineering Learning resouces.
 
-- [Electronics DIY](https://github.com/techgaun/awesome-electronics) - DIY electronic resources.
+- [awesome-electronics](https://github.com/techgaun/awesome-electronics) - DIY electronic resources.
 
-## Batteries
+## Open-Sustainable-Technology
 
 - [Batteries](https://github.com/protontypes/open-sustainable-technology) - Energy Storage and battery management.
