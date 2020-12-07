@@ -70,7 +70,7 @@ Commercial support and professional services are available from the open source 
 
 ## Software
 
-- [Apache OFbiz](https://ofbiz.apache.org) - Open Source Enterprise Resource Planning system.
+- [Apache OFbiz](https://ofbiz.apache.org) - Open Source Enterprise Resource Planning.
 
 > ![apacheofbiz](apacheofbiz.png)
 
