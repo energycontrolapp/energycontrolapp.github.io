@@ -10,14 +10,12 @@ Commercial support and professional services are available on a paid basis from 
 
 ## Commercial
 
-- [Safety](#safety)
+- [**Safety**](#safety)
 - [Controls](#controls)
 - [Protection](#protection)
-- [Physical Security](#physical-security)
+- [Security](#security)
 - [Protocols](#protocols)
 - [Software](#software)
-- [Assembly](#assembly)
-- [Rust](#rust)
 - [HVAC](#hvac)
 - [Fire Alarms](#fire-alarms)
 - [Building Codes](#building-codes)
@@ -26,34 +24,7 @@ Commercial support and professional services are available on a paid basis from 
 - [Electronics](#electronics)
 - [Batteries](#batteries)
 - [Magazines](#magazines)
-- [Open Source](#open-source)
-
----
-
-<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
-
-# [Energy Control App](https://github.com/energycontrolapp/awesome-energycontrolapp) - the Awesome Open Source List
-
-> The [**Energy Control App**](https://github.com/energycontrolapp/energycontrolapp.github.io) Awesome List features [public,](https://project-awesome.org/zachflower/awesome-open-source-supporters) [open source](https://github.com/cornelius/awesome-open-source) projects that can **control energy** in any way at [awesome-energycontrolapp.](https://github.com/energycontrolapp/awesome-energycontrolapp)
-
-![awesome](awesome.svg)
-
-Support provided by the open source community forums.
-
-## Open Source
-
-- [Safety](#safety)
-- [Controls](#controls)
-- [Protection](#protection)
-- [Physical Security](#physical-security)
-- [Protocols](#protocols)
-- [Software](#software)
-- [Assembly](#assembly)
-
-- [Fire Alarms](#fire-alarms)
-- [Building Codes](#building-codes)
-- [open-source-electronics](#open-source-electronics)
-- [Open Source](#open-source)
+- [**Open Source**](#open-source)
 
 ## Safety
 
@@ -67,7 +38,7 @@ Support provided by the open source community forums.
 
 ## Controls
 
-- [Engineering Controls](https://en.m.wikipedia.org/wiki/Engineering_controls) - Engineering control strategies designed to protect.
+- [Controls](https://en.m.wikipedia.org/wiki/Engineering_controls) - Controls designed to protect.
 
 ## Protection
 
@@ -77,39 +48,27 @@ Support provided by the open source community forums.
 
 - [PtD](https://en.m.wikipedia.org/wiki/Prevention_through_design) - Prevention through Design.
 
-## Physical Security
-
-- [RFID](https://github.com/rfidtool/ESP-RFID-Tool) - Wiegand RFID testing.
-
-- [Physical Security](https://github.com/l373/Awesome-PhySec) - PhySec repository.
-
-- [Access Control](https://github.com/l373/Awesome-PhySec) - Gallagher Cardax access control system.
-
-## Protocols
-
-- [BACnet Building Automation Control network](http://www.bacnet.org) - ANSI  ISO Standard Communication Protocol for buildings. 
-
-- [BACnet code](https://sourceforge.net/projects/bacnet) - BACnet Protocol Stack C source code.
-
-![bacnet](bacnetashraetm.png)
-
-- [ASHRAE](https://www.ashrae.org) - American Society of Heating, Refrigerating and Air-Conditioning Engineers.
-
 ## Software
 
 - [Apache OFbiz](https://ofbiz.apache.org) - Open Source Enterprise Resource Planning.
 
 > ![apacheofbiz](apacheofbiz.png)
 
-## Rust
+## Security
 
-- [Rust](https://www.rust-lang.org/) - Rust Programming Language.
+- [RFID](https://github.com/rfidtool/ESP-RFID-Tool) - Wiegand RFID testing.
 
-- [Embedded](https://github.com/rust-embedded/awesome-embedded-rust) - Embedded Rust.
+## Protocols
 
-- [Unofficial](https://github.com/rust-unofficial/awesome-rust) - Unofficial Rust resources.
+- [BACnet Building Automation Control network](http://www.bacnet.org) - ANSI  ISO Standard Communication Protocol for buildings. 
 
-- [Yew](https://github.com/jetli/awesome-yew) - Yew is Rust and WASM for creating multi-threaded apps with WebAssembly.
+![bacnet.png](bacnet.png)
+
+## Software
+
+- [Apache OFbiz](https://ofbiz.apache.org) - Open Source Enterprise Resource Planning.
+
+> ![apacheofbiz](apacheofbiz.png)
 
 ## HVAC
 
@@ -125,19 +84,15 @@ Support provided by the open source community forums.
 
 ## Standards
 
-- [Canadian Electrical Code](https://en.wikipedia.org/wiki/Canadian Electrical Code) - Canadian Electrical Code.
+- [Canadian_Electrical_Code](https://en.wikipedia.org/wiki/Canadian_Electrical_Code) - Canadian Electrical Code.
 
 > ![csa](csa.png)
-
-- [ISO50001](https://en.m.wikipedia.org/wiki/ISO_50001) - ISO Standards for building energy management systems.
-
-> ![iso](iso.png)
 
 ## Manufacturers
 
 - [Controls manufacturer](https://sunbeltcontrols.com/products/building-automation/reliable-controls) - Reliable Controls manufacturer of smart building controls.
 
-- [Automation solutions](https://en.m.wikipedia.org/wiki/Schneider_Electric) - Schneider energy and building automation solutions.
+- [Building Automation](https://en.m.wikipedia.org/wiki/Schneider_Electric) - Schneider energy and building automation solutions.
 
 ## Electronics
 
@@ -146,6 +101,72 @@ Support provided by the open source community forums.
 - [Energy Star](https://en.wikipedia.org/wiki/Energy_Star) - Certified energy-efficient products.
 
 > ![energystar.png](energystar.png)
+
+## Magazines
+
+- [HPAC Engineering](https://www.hpac.com/magazine) - HVAC and Building Automation Systems magazine.
+
+> ![hpacengineering](hpacengineering.png)
+
+---
+
+.
+
+---
+
+.
+
+---
+
+.
+
+---
+
+.
+
+---
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+
+# [Awesome](https://project-awesome.org/zachflower/awesome-open-source-supporters) [Energy Control App](https://github.com/energycontrolapp/awesome-energycontrolapp) [open source](https://github.com/cornelius/awesome-open-source) List
+
+> [**Energy Control App**](https://github.com/energycontrolapp/energycontrolapp.github.io) Awesome List features [public,](https://project-awesome.org/zachflower/awesome-open-source-supporters) [open source](https://github.com/cornelius/awesome-open-source) projects that **control energy** in any way at [awesome-energycontrolapp.](https://github.com/energycontrolapp/awesome-energycontrolapp)
+
+![awesome](awesome.svg)
+
+Support provided by the open source community forums.
+
+## Open Source
+
+- [Physical Security](#physical-security)
+- [Protocols](#protocols)
+- [Software](#software)
+- [Assembly](#assembly)
+- [Fire Alarms](#fire-alarms)
+- [Building Codes](#building-codes)
+- [open-source-electronics](#open-source-electronics)
+- [Open Source](#open-source)
+- [Physical Security](https://github.com/l373/Awesome-PhySec) - PhySec repository.
+- [Access Control](https://github.com/l373/Awesome-PhySec) - Gallagher Cardax access control system.
+
+## Protocols
+
+- [BACnet code](https://sourceforge.net/projects/bacnet) - BACnet Protocol Stack C source code.
+
+![bacnet](bacnetashraetm.png)
+
+- [ASHRAE](https://www.ashrae.org) - American Society of Heating, Refrigerating and Air-Conditioning Engineers.
+
+
+
+## Rust
+
+- [Rust](https://www.rust-lang.org/) - Rust Programming Language.
+
+- [Embedded](https://github.com/rust-embedded/awesome-embedded-rust) - Embedded Rust.
+
+- [Unofficial](https://github.com/rust-unofficial/awesome-rust) - Unofficial Rust resources.
+
+## Electronics
 
 - [Circuits](https://github.com/Xndr7/awesome-circuits) - Electronic circuits and components.
 
@@ -158,10 +179,3 @@ Support provided by the open source community forums.
 ## Batteries
 
 - [Batteries](https://github.com/protontypes/open-sustainable-technology) - Energy Storage and battery management.
-
-
-## Magazines
-
-- [HPAC Engineering](https://www.hpac.com/magazine) - HVAC and Building Automation Systems magazine.
-
-> ![hpacengineering](hpacengineering.png)
