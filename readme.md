@@ -26,7 +26,7 @@ Commercial support and professional services are available from Open Source hard
 - [PhySec](#physec)
 - [Rust](#rust)
 - [Circuits](#circuits)
-- [Sustainable-](#sustainable)
+- [Sustainable](#sustainable)
 
 ## Safety
 
