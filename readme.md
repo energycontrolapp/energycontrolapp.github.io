@@ -51,17 +51,17 @@ Commercial support and professional services are available from Open Source hard
 
 - [RFID](https://github.com/rfidtool/ESP-RFID-Tool) - Wiegand RFID testing.
 
-## Software
-
-- [Apache OFbiz](https://ofbiz.apache.org) - Open Source Enterprise Resource Planning.
-
-> ![apacheofbiz](apacheofbiz.png)
-
 ## Protocols
 
 - [BACnet Building Automation Control network](http://www.bacnet.org) - ANSI  ISO Standard Communication Protocol for buildings. 
 
 ![bacnet.png](bacnet.png)
+
+## Software
+
+- [Apache OFbiz](https://ofbiz.apache.org) - Open Source Enterprise Resource Planning.
+
+> ![apacheofbiz](apacheofbiz.png)
 
 ## HVAC
 
