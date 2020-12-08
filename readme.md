@@ -17,17 +17,15 @@ Commercial support and professional services are available from Open Source hard
 - [Protocols](#protocols)
 - [Software](#software)
 - [HVAC](#hvac)
-- [Fire Alarms](#fire-alarms)
-- [Building Codes](#building-codes)
+- [Alarms](#alarms)
 - [Standards](#standards)
 - [Manufacturers](#manufacturers)
 - [Electronics](#electronics)
 - [Magazines](#magazines)
-- [**Open-Source**](#open-source)
 
 ## Safety
 
-![controlshierarchy](controlshierarchy.png)
+> ![controlshierarchy](controlshierarchy.png)
 
 - [Safety](https://en.m.wikipedia.org/wiki/Hierarchy_of_hazard_controls) - Hierarchy of Controls.
 
@@ -37,7 +35,7 @@ Commercial support and professional services are available from Open Source hard
 
 ## Controls
 
-- [Controls](https://en.m.wikipedia.org/wiki/Engineering_controls) - Controls designed to protect.
+- [Engineering Controls](https://en.m.wikipedia.org/wiki/Engineering_controls) - Controls designed to protect.
 
 ## Protection
 
@@ -55,7 +53,7 @@ Commercial support and professional services are available from Open Source hard
 
 - [BACnet Building Automation Control network](http://www.bacnet.org) - ANSI  ISO Standard Communication Protocol for buildings. 
 
-![bacnet.png](bacnet.png)
+> ![bacnet.png](bacnet.png)
 
 ## Software
 
@@ -67,13 +65,9 @@ Commercial support and professional services are available from Open Source hard
 
 - [HVAC](https://en.m.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning) - Heating ventilation and air conditioning.
 
-## Fire Alarms
+## Alarms
 
 - [Fire Alarms](https://en.m.wikipedia.org/wiki/Fire_alarm_system) - Fire alarm systems.
-
-## Building Codes
-
-- [Building codes](https://en.m.wikipedia.org/wiki/Building_code) - Building codes.
 
 ## Standards
 
@@ -115,14 +109,14 @@ Support provided by the open source community forums.
 
 ## Open-Source
 
-- [Physical-Security](#physical-security)
+- [PhySec](#physec)
 - [Rust](#rust)
 - [Circuits](#circuits)
-- [Open-Sustainable-Technology](#Open-Sustainable-Technology)
+- [Sustainable-](#sustainable)
 
-## Physical-Security
+## PhySec
 
-- [Physical-Security](https://github.com/l373/Awesome-PhySec) - PhySec repository.
+- [PhySec](https://github.com/l373/Awesome-PhySec) - PhySec repository.
 
 ## Rust
 
@@ -142,6 +136,6 @@ Support provided by the open source community forums.
 
 - [awesome-electronics](https://github.com/techgaun/awesome-electronics) - DIY electronic resources.
 
-## Open-Sustainable-Technology
+## Sustainable
 
-- [Batteries](https://github.com/protontypes/open-sustainable-technology) - Energy Storage and battery management.
+- [Sustainable](https://github.com/protontypes/open-sustainable-technology) - Energy Storage and battery management.
