@@ -4,9 +4,9 @@
 
 > Just the [best](https://github.com/bestawesomesoftware/bestawesomesoftware.org), carefully curated set of [awesome](https://github.com/topics/awesome) lists about [**Energy Control App**](https://energycontrolapp.github.io) software and hardware that **control energy** in any form.
 
-![awesome.svg](awesome.svg)
+> ![awesome.svg](awesome.svg)
 
-Commercial support and professional services are available from Open-Source hardware and software developers.
+> Commercial support and professional services are available from Open-Source hardware and software developers.
 
 ## Contents
 
@@ -89,9 +89,9 @@ Commercial support and professional services are available from Open-Source hard
 
 ## Electronics
 
-- [Digi](https://en.wikipedia.org/wiki/Digi_International) - Digi Industrial Internet of Things.
+- [Digi](https://en.m.wikipedia.org/wiki/Digi_International) - Digi Industrial Internet of Things.
 
-- [Energy Star](https://en.wikipedia.org/wiki/Energy_Star) - Certified energy-efficient products.
+- [Energy Star](https://en.m.wikipedia.org/wiki/Energy_Star) - Certified energy-efficient products.
 
 > ![energystar.png](energystar.png)
 
