@@ -6,7 +6,7 @@
 
 ![awesome.svg](awesome.svg)
 
-Commercial support and professional services are available from Open Source hardware and software Developers.
+Commercial support and professional services are available from Open-Source hardware and software developers.
 
 ## Contents
 
@@ -22,8 +22,8 @@ Commercial support and professional services are available from Open Source hard
 - [Manufacturers](#manufacturers)
 - [Electronics](#electronics)
 - [Magazines](#magazines)
-- [**EnergyControlApp**](#energycontrolapp)
-- [**OpenSource**](#opensource)
+- [**Awesome-EnergyControlApp**](#awesome-energycontrolapp)
+- [**Open-Source**](#open-source)
 - [PhySec](#physec)
 - [Rust](#rust)
 - [Circuits](#circuits)
@@ -105,15 +105,15 @@ Commercial support and professional services are available from Open Source hard
 
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-## EnergyControlApp
+## Awesome-EnergyControlApp
 
 > This GitHub repository: [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energycontrolapp) is an [Awesome](https://github.com/sindresorhus/awesome) list of Open-Source projects that can **control energy** in some way.
 
 > ![awesome.svg](awesome.svg)
 
-> Support provided by the open source community.
+> Support provided by the Open-Source community.
 
-## OpenSource
+## Open-Source
 
 - [Open-Source](https://github.com/open-source) - Open-Source.
 
