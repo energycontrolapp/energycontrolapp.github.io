@@ -1,6 +1,6 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-# [Energy Control App](https://energycontrolapp.github.io)
+# [Energy Control App]
 
 > Just the [best](https://github.com/bestawesomesoftware/bestawesomesoftware.org), carefully curated set of [awesome](https://github.com/topics/awesome) lists about [**Energy Control App**](https://energycontrolapp.github.io) software and hardware that **control energy** in any form.
 
@@ -8,7 +8,7 @@
 
 Commercial support and professional services are available from Open Source hardware and software Developers.
 
-## Commercial
+## Contents
 
 - [**Safety**](#safety)
 - [Controls](#controls)
@@ -64,12 +64,6 @@ Commercial support and professional services are available from Open Source hard
 
 ![bacnet.png](bacnet.png)
 
-## Software
-
-- [Apache OFbiz](https://ofbiz.apache.org) - Open Source Enterprise Resource Planning.
-
-> ![apacheofbiz](apacheofbiz.png)
-
 ## HVAC
 
 - [HVAC](https://en.m.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning) - Heating ventilation and air conditioning.
@@ -112,9 +106,9 @@ Commercial support and professional services are available from Open Source hard
 
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-# [Awesome](https://project-awesome.org/zachflower/awesome-open-source-supporters) [Open Source](https://github.com/cornelius/awesome-open-source)  [Energy Control App](https://github.com/energycontrolapp/awesome-energycontrolapp) Software and Hardware
+## [Awesome](https://project-awesome.org/zachflower/awesome-open-source-supporters) [Open Source](https://github.com/cornelius/awesome-open-source)  [Energy Control App](https://github.com/energycontrolapp/awesome-energycontrolapp) Software and Hardware.
 
-> [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energycontrolapp) is an [Awesome](https://project-awesome.org/zachflower/awesome-open-source-supporters) List of  [Open Source](https://github.com/cornelius/awesome-open-source) projects that **control energy**.
+> This repo: [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energycontrolapp) is an [Awesome](https://github.com/sindresorhus/awesome) list of  [Open-Source](https://github.com/open-source) projects that can **control energy** in some way.
 
 ![awesome](awesome.svg)
 
@@ -125,8 +119,7 @@ Support provided by the open source community forums.
 - [Physical-Security](#physical-security)
 - [Circuits](#open-source-circuits)
 
-
-## Physical Security
+## Physical-Security
 
 - [Physical-Security](https://github.com/l373/Awesome-PhySec) - PhySec repository.
 
