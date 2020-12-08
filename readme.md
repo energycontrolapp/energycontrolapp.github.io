@@ -1,6 +1,6 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-# [Energy Control App]
+# Energy Control App
 
 > Just the [best](https://github.com/bestawesomesoftware/bestawesomesoftware.org), carefully curated set of [awesome](https://github.com/topics/awesome) lists about [**Energy Control App**](https://energycontrolapp.github.io) software and hardware that **control energy** in any form.
 
@@ -22,7 +22,6 @@ Commercial support and professional services are available from Open Source hard
 - [Standards](#standards)
 - [Manufacturers](#manufacturers)
 - [Electronics](#electronics)
-- [Batteries](#batteries)
 - [Magazines](#magazines)
 - [**Open-Source**](#open-source)
 
@@ -48,15 +47,15 @@ Commercial support and professional services are available from Open Source hard
 
 - [PtD](https://en.m.wikipedia.org/wiki/Prevention_through_design) - Prevention through Design.
 
+## Security
+
+- [RFID](https://github.com/rfidtool/ESP-RFID-Tool) - Wiegand RFID testing.
+
 ## Software
 
 - [Apache OFbiz](https://ofbiz.apache.org) - Open Source Enterprise Resource Planning.
 
 > ![apacheofbiz](apacheofbiz.png)
-
-## Security
-
-- [RFID](https://github.com/rfidtool/ESP-RFID-Tool) - Wiegand RFID testing.
 
 ## Protocols
 
@@ -106,9 +105,9 @@ Commercial support and professional services are available from Open Source hard
 
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-## [Awesome](https://project-awesome.org/zachflower/awesome-open-source-supporters) [Open Source](https://github.com/cornelius/awesome-open-source)  [Energy Control App](https://github.com/energycontrolapp/awesome-energycontrolapp) Software and Hardware.
+## Energy Control App [Awesome](https://project-awesome.org/zachflower/awesome-open-source-supporters)
 
-> This repo: [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energycontrolapp) is an [Awesome](https://github.com/sindresorhus/awesome) list of  [Open-Source](https://github.com/open-source) projects that can **control energy** in some way.
+> This GitHub repository: [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energycontrolapp) is an [Awesome](https://github.com/sindresorhus/awesome) list of  [Open-Source](https://github.com/open-source) projects that can **control energy** in some way.
 
 ![awesome](awesome.svg)
 
@@ -117,7 +116,9 @@ Support provided by the open source community forums.
 ## Open-Source
 
 - [Physical-Security](#physical-security)
-- [Circuits](#open-source-circuits)
+- [Rust](#rust)
+- [Circuits](#circuits)
+- [Open-Sustainable-Technology](#Open-Sustainable-Technology)
 
 ## Physical-Security
 
