@@ -23,6 +23,7 @@ Commercial support and professional services are available from Open Source hard
 - [Electronics](#electronics)
 - [Magazines](#magazines)
 - [**OpenSource**](#opensource)
+- [**EnergyControlApp**](#energycontrolapp)
 - [PhySec](#physec)
 - [Rust](#rust)
 - [Circuits](#circuits)
@@ -104,13 +105,17 @@ Commercial support and professional services are available from Open Source hard
 
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-> This GitHub repository: [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energycontrolapp) is an [Awesome](https://github.com/sindresorhus/awesome) list of [Open-Source](https://github.com/open-source) projects that can **control energy** in some way.
+## EnergyControlApp
+
+> This GitHub repository: [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energycontrolapp) is an [Awesome](https://github.com/sindresorhus/awesome) list of Open-Source projects that can **control energy** in some way.
 
 > ![awesome.svg](awesome.svg)
 
 > Support provided by the open source community.
 
 ## OpenSource
+
+- [Open-Source](https://github.com/open-source) - Open-Source.
 
 ## PhySec
 
