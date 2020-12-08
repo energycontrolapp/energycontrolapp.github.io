@@ -106,11 +106,11 @@ Commercial support and professional services are available from Open Source hard
 
 > This GitHub repository: [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energycontrolapp) is an [Awesome](https://github.com/sindresorhus/awesome) list of [Open-Source](https://github.com/open-source) projects that can **control energy** in some way.
 
-![awesome](awesome.svg)
+> ![awesome](awesome.svg)
 
-Support provided by the open source community.
+> Support provided by the open source community.
 
-## OpenSource Energy Control App Software and Hardware
+## OpenSource
 
 ## PhySec
 
