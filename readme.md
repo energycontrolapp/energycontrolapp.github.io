@@ -4,7 +4,7 @@
 
 > Just the [best](https://github.com/bestawesomesoftware/bestawesomesoftware.org), carefully curated set of [awesome](https://github.com/topics/awesome) lists about [**Energy Control App**](https://energycontrolapp.github.io) software and hardware that **control energy** in any form.
 
-> ![awesome.svg](awesome.svg)
+![awesome.svg](awesome.svg)
 
 > Commercial support and professional services are available from Open-Source hardware and software developers.
 
@@ -16,6 +16,7 @@
 - [Security](#security)
 - [Protocols](#protocols)
 - [Software](#software)
+- [Hardware](#hardware)
 - [HVAC](#hvac)
 - [Alarms](#alarms)
 - [Standards](#standards)
@@ -33,7 +34,7 @@
 
 > ![controlshierarchy.png](controlshierarchy.png)
 
-- [Safety](https://en.m.wikipedia.org/wiki/Hierarchy_of_hazard_controls) - Hierarchy of Controls.
+- [Safety](https://en.m.wikipedia.org/wiki/Hierarchy_of_hazard_controls) - Hierarchy of Hazard Controls.
 
 - [COVID-19](https://n-o-d-e.net/covid.html) - A showcase of open hardware projects to fight COVID-19.
 
@@ -67,6 +68,12 @@
 
 > ![apacheofbiz](apacheofbiz.png)
 
+## Hardware
+
+- [Open Source Hardware Association](https://www.oshwa.org/) - Open Source Hardware Association.
+
+> ![oshw.png](oshw.png)
+
 ## HVAC
 
 - [HVAC](https://en.m.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning) - Heating ventilation and air conditioning.
@@ -77,7 +84,7 @@
 
 ## Standards
 
-- [Canadian_Electrical_Code](https://en.wikipedia.org/wiki/Canadian_Electrical_Code) - Canadian Electrical Code.
+- [Canadian_Electrical_Code](https://en.m.wikipedia.org/wiki/Canadian_Electrical_Code) - Canadian Electrical Code.
 
 > ![csa.png](csa.png)
 
@@ -107,15 +114,17 @@
 
 ## Awesome-EnergyControlApp
 
-> This GitHub repository: [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energycontrolapp) is an [Awesome](https://github.com/sindresorhus/awesome) list of Open-Source projects that can **control energy** in some way.
+> This GitHub repository: [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energycontrolapp) is a list of [Awesome](https://github.com/sindresorhus/awesome) lists and resources about Open-Source projects that can **control energy** in some way.
 
-> ![awesome.svg](awesome.svg)
+![awesome.svg](awesome.svg)
 
 > Support provided by the Open-Source community.
 
 ## Open-Source
 
-- [Open-Source](https://github.com/open-source) - Open-Source.
+- [open-source](https://github.com/open-source) - Open-Source on GitHub.
+
+- [Open-source_software](https://en.m.wikipedia.org/wiki/Open-source_software) - What is Open-Source?
 
 ## PhySec
 
