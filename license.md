@@ -1,7 +1,3 @@
-<meta name="robots" content="noindex" />
-
-license_gnu_affero_general_public_license.md
-
                     GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 

@@ -1,6 +1,9 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="en-US">
   <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- robots -->
     <meta name="robots" content="noindex" />
     <meta name="robots" content="nofollow" />
     <meta name="robots" content="noarchive" />
@@ -33,26 +36,27 @@
     <meta name="baiduspider-mobile" content="noindex" />
     <meta name="baiduspider-news" content="noindex" />
     <meta name="baiduspider-video" content="noindex" />
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-{% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+<!-- robots -->
+<title>Title</title>
   </head>
   <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      {% if site.title and site.title != page.title %}
-      <h1><a href="{{ "/" | absolute_url }}">{{ site.title }}</a></h1>
-      {% endif %}
 
-      {{ content }}
 
-      {% if site.github.private != true and site.github.license %}
-      <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray"></div>
-      {% endif %}
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
+
+/* THANKS */
+
+	To everyone who shares, likes, comments, and contributes!
+
+---
+
+What is humans.txt?
+
+humans.txt is a less formal initiative for providing human-readable information about the authors of the website. 
+
+<link type="text/plain" rel="author" href="http://example.com/humans.txt">
+
+http://humanstxt.org/
+
+
   </body>
 </html>
