@@ -4,7 +4,7 @@
 
 > Just the best, carefully curated set of [awesome](https://github.com/topics/awesome) lists about [**Energy Control App**](https://energycontrolapp.github.io) software and hardware that **control energy** in any form.
 
-![awesome.png](awesome.png)
+![a.png](a.png)
 
 > Commercial support and professional services are available from Open-Source hardware and software developers.
 
@@ -116,7 +116,7 @@
 
 > This GitHub repository: [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energycontrolapp) is a list of [Awesome](https://github.com/sindresorhus/awesome) lists and resources about Open-Source projects that can **control energy** in some way.
 
-![awesome.png](awesome.png)
+![a.png](a.png)
 
 > Support provided by the Open-Source community.
 
