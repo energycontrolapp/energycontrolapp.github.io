@@ -2,11 +2,21 @@
 
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-> Just the best, carefully curated set of [awesome](https://github.com/topics/awesome) lists about [**Energy Control App**](https://energycontrolapp.github.io) software and hardware that **control energy** in any form.
+> Just the best, most helpful, carefully curated set of [awesome](https://github.com/topics/awesome) lists about [**Energy Control App**](https://energycontrolapp.github.io) software and hardware that **control energy** in any form.
 
 ![a.png](a.png)
 
-> Commercial support and professional services are available from Open-Source hardware and software developers.
+> Commercial support and professional consulting services are available. This list is not to be used or interpreted as an advertisement for the vendors listed.
+
+> See the [List of commercial open-source applications and services]
+(https://en.wikipedia.org/wiki/List_of_commercial_open-source_applications_and_services)
+
+
+> Professional consulting (like Red Hat) for software is available.
+
+> Commercial support and training for open-source (like Arduino) hardware are available to address business or government compliance requirements. Commercial licences can offer legal protection and indemnification from copyright and patent infringement.
+
+
 
 ## Contents
 
