@@ -1,7 +1,3 @@
----
----
----
-
 # Energy Control App
 
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
