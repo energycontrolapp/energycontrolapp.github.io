@@ -1,6 +1,9 @@
-<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+---
+---
 
 # Energy Control App
+
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
 > Just the best, carefully curated set of [awesome](https://github.com/topics/awesome) lists about [**Energy Control App**](https://energycontrolapp.github.io) software and hardware that **control energy** in any form.
 
