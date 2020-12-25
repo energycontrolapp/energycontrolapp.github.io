@@ -6,17 +6,13 @@
 
 ![a.png](a.png)
 
-> Commercial support and professional consulting services are available. This list is not to be used or interpreted as an advertisement for the vendors listed.
+> Commercial support and professional consulting services are available. (This list is not to be used or interpreted as an advertisement for the vendors listed.)
 
-> See the [List of commercial open-source applications and services]
-(https://en.wikipedia.org/wiki/List_of_commercial_open-source_applications_and_services)
+> Technical expertise and professional consulting (with a business model similar to Red Hat) for operating systems and software is available. See the Wikipedia [List_of_commercial_open-source_applications_and_services](https://en.m.wikipedia.org/wiki/List_of_commercial_open-source_applications_and_services)
 
+![chipconnectedhomeip.png](chipconnectedhomeip.png)
 
-> Professional consulting (like Red Hat) for software is available.
-
-> Commercial support and training for open-source (like Arduino) hardware are available to address business or government compliance requirements. Commercial licences can offer legal protection and indemnification from copyright and patent infringement.
-
-
+> Commercial support and training for open-source hardware (with a business model similar to Android) is available for legal, business or government compliance requirements. Commercial licences can offer legal protection and indemnification from copyright and patent infringement. See the Wikipedia list of [Open-source_hardware](https://en.m.wikipedia.org/wiki/Open-source_hardware)
 
 ## Contents
 
@@ -161,11 +157,3 @@
 ## Sustainable
 
 - [open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - Energy Storage and battery management.
-
-
-
----
----
----
-
-
