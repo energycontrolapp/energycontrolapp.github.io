@@ -1,8 +1,0 @@
-exclude: [readme.md]
-defaults:
-  -
-    scope:
-      path: "index.md"
-    values:
-      title: "Energy Control App"
-      layout: "default"
