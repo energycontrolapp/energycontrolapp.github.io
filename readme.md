@@ -1,164 +1,172 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-# Energy Control App
+<!-- omit in toc -->
+# EnergyControlApp
 
-> Just the best, most helpful, carefully curated set of [awesome](https://github.com/topics/awesome) lists about [**Energy Control App**](https://energycontrolapp.github.io) software and hardware that **control energy** in any form.
+<!-- omit in toc -->
+## Awesome-Lists ![a.png](a.png)
 
-![a.png](a.png)
+Just the best, carefully curated set of [Awesome-Lists](https://github.com/topics/awesome) about [**EnergyControlApp**](https://energycontrolapp.github.io) resources to **control energy** in some way, shape or form!
 
-> Commercial support and professional consulting services are available. (This list is not to be used or interpreted as an advertisement for the vendors listed.)
-
-> Technical expertise and professional consulting (with a business model similar to Red Hat) for operating systems and software is available. See the Wikipedia [List_of_commercial_open-source_applications_and_services](https://en.m.wikipedia.org/wiki/List_of_commercial_open-source_applications_and_services)
-
-> Commercial support and training for open-source hardware (with a business model similar to Android) is available for legal, business or government compliance requirements. Commercial licences can offer legal protection and indemnification from copyright and patent infringement. See the Wikipedia list of [Open-source_hardware](https://en.m.wikipedia.org/wiki/Open-source_hardware)
-
+<!-- omit in toc -->
 ## Contents
-
-- [Energy Control App](#energy-control-app)
-  - [Contents](#contents)
-  - [Safety](#safety)
-  - [Controls](#controls)
-  - [Protection](#protection)
-  - [Security](#security)
-  - [Protocols](#protocols)
-  - [Software](#software)
-  - [Hardware](#hardware)
-  - [HVAC](#hvac)
-  - [Alarms](#alarms)
-  - [Standards](#standards)
-  - [Manufacturers](#manufacturers)
-  - [Electronics](#electronics)
-  - [Magazines](#magazines)
-  - [Awesome-EnergyControlApp](#awesome-energycontrolapp)
-  - [Open-Source](#open-source)
-  - [PhySec](#physec)
-  - [Rust](#rust)
-  - [Circuits](#circuits)
-  - [Sustainable](#sustainable)
+- [Safety](#safety)
+- [Controls](#controls)
+- [Protection](#protection)
+- [Projects](#projects)
+- [Security](#security)
+- [Alarms](#alarms)
+- [HVAC](#hvac)
+- [Electronics](#electronics)
+- [Manufacturers](#manufacturers)
+- [Engineering](#engineering)
+- [Standards](#standards)
+- [Open Source Hardware](#open-source-hardware)
+  - [OSHWA Open Source Hardware Association](#oshwa-open-source-hardware-association)
+- [Open Source Software](#open-source-software)
+  - [Apache-OFbiz](#apache-ofbiz)
+- [Awesome-EnergyControlApp Awesome-FLOSS](#awesome-energycontrolapp-awesome-floss)
 
 ## Safety
 
-> ![controlshierarchy.png](controlshierarchy.png)
+- [Controls](https://en.m.wikipedia.org/wiki/Hierarchy_of_hazard_controls) - Hierarchy of Controls to safely manage hazards.
 
-- [Safety](https://en.m.wikipedia.org/wiki/Hierarchy_of_hazard_controls) - Hierarchy of Hazard Controls.
+![hierarchyofhazardcontrols.png](hierarchyofhazardcontrols.png)
 
+- [NIOSH-air-filtration](https://en.m.wikipedia.org/wiki/NIOSH_air_filtration_rating) - Air filtration respirators.
+  
 - [COVID-19](https://n-o-d-e.net/covid.html) - A showcase of open hardware projects to fight COVID-19.
-
-- [Masks](https://en.m.wikipedia.org/wiki/NIOSH_air_filtration_rating) - Air filtration respirators.
 
 ## Controls
 
-- [Engineering Controls](https://en.m.wikipedia.org/wiki/Engineering_controls) - Controls designed to protect.
+- [Engineering-Controls](https://en.m.wikipedia.org/wiki/Engineering_controls) - Controls designed to protect.
 
 ## Protection
 
 - [Electrical-Protection](https://en.m.wikipedia.org/wiki/Power_system_protection) - Protection of electrical power systems from faults.
 
-- [Hazard-elimination](https://en.m.wikipedia.org/wiki/Hazard_elimination) - Protection of electrical power systems from faults.
+- [Hazard-Elimination](https://en.m.wikipedia.org/wiki/Hazard_elimination) - Protection of electrical power systems from faults.
 
-- [PtD](https://en.m.wikipedia.org/wiki/Prevention_through_design) - Prevention through Design.
+- [PtD-Prevention](https://en.m.wikipedia.org/wiki/Prevention_through_design) - Prevention through Design.
 
-## Security
+## Projects
 
-- [RFID](https://github.com/rfidtool/ESP-RFID-Tool) - Wiegand RFID testing.
-
-## Protocols
-
-- [CHIP-Connected_Home_over_IP](
+- [CHIP-Connected-Home-over-IP](
 https://en.m.wikipedia.org/wiki/Connected_Home_over_IP) - CHIP Project Connected Home over IP is an open-source, royalty-free  automation connectivity standards project which features compatibility among different smart home and Internet of Things products and software.
 
 ![chipconnectedhomeip.png](chipconnectedhomeip.png)
 
-- [BACnet Building Automation Control network](http://www.bacnet.org) - ANSI  ISO Standard Communication Protocol for buildings. 
+- [BACnet Building Automation Control network](http://www.bacnet.org) - ANSI ISO Standard Communication Protocol for buildings.
 
-> ![bacnet.png](bacnet.png)
+![bacnet.png](bacnet.png)
 
-## Software
+## Security
 
-- [Apache OFbiz](https://ofbiz.apache.org) - Open Source Enterprise Resource Planning.
+- [RFID](https://github.com/rfidtool/ESP-RFID-Tool) - Wiegand RFID testing.
+  
+## Alarms
 
-> ![apacheofbiz.png](apacheofbiz.png)
-
-## Hardware
-
-- [Open Source Hardware Association](https://www.oshwa.org/) - Open Source Hardware Association.
-
-> ![oshw.png](oshw.png)
+- [Fire-Alarms](https://en.m.wikipedia.org/wiki/Fire_alarm_system) - Fire alarm systems.
 
 ## HVAC
 
 - [HVAC](https://en.m.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning) - Heating ventilation and air conditioning.
 
-## Alarms
-
-- [Fire Alarms](https://en.m.wikipedia.org/wiki/Fire_alarm_system) - Fire alarm systems.
-
-## Standards
-
-- [Canadian_Electrical_Code](https://en.m.wikipedia.org/wiki/Canadian_Electrical_Code) - Canadian Electrical Code.
-
-> ![csa.png](csa.png)
-
-## Manufacturers
-
-- [Controls manufacturer](https://sunbeltcontrols.com/products/building-automation/reliable-controls) - Reliable Controls manufacturer of smart building controls.
-
-- [Building Automation](https://en.m.wikipedia.org/wiki/Schneider_Electric) - Schneider energy and building automation solutions.
-
 ## Electronics
 
 - [Digi](https://en.m.wikipedia.org/wiki/Digi_International) - Digi Industrial Internet of Things.
 
-- [Energy Star](https://en.m.wikipedia.org/wiki/Energy_Star) - Certified energy-efficient products.
+- [Energy-Star](https://en.m.wikipedia.org/wiki/Energy_Star) - Certified energy-efficient products.
 
-> ![energystar.png](energystar.png)
+![energystar.png](energystar.png)
 
-## Magazines
+## Manufacturers
 
-- [HPAC Engineering](https://www.hpac.com/magazine) - HVAC and Building Automation Systems magazine.
+- [Controls-Manufacturers](https://sunbeltcontrols.com/products/building-automation/reliable-controls) - Reliable Controls manufacturer of smart building controls.
 
-> ![hpacengineering.png](hpacengineering.png)
+- [Building-Automation-Solutions](https://en.m.wikipedia.org/wiki/Schneider_Electric) - Schneider energy and building automation solutions.
 
----
+## Engineering
+
+- [HPAC-Engineering](https://www.hpac.com/magazine) - HVAC and Building Automation Systems magazine.
+
+![hpacengineering.png](hpacengineering.png)
+
+## Standards
+
+- [Canadian-Electrical-Code](https://en.m.wikipedia.org/wiki/Canadian_Electrical_Code) - Canadian Electrical Code.
+
+![csa.png](csa.png)
+
+## Open Source Hardware
+
+### OSHWA Open Source Hardware Association
+
+- [OSHWA-Open-Source-Hardware](https://www.oshwa.org/) - OSHWA Open Source Hardware Association.
+
+![oshw.png](oshw.png)
+
+> Commercial support and training for open-source hardware (under a model similar to Android) is available for legal, business or government compliance requirements. Commercial licences can offer legal indemnification from copyright and patent infringement claims.
+
+See the Wikipedia list of [Open-source_hardware](https://en.m.wikipedia.org/wiki/Open-source_hardware) for other good examples of open-source hardware projects.
+
+## Open Source Software
+
+### Apache-OFbiz
+
+- [Apache-OFbiz](https://ofbiz.apache.org) - Open Source Enterprise Resource Planning.
+
+![apacheofbiz.png](apacheofbiz.png)
+
+> Commercial support and professional consulting services are available. Technical expertise and professional DevOps consulting (under a model similar to Red Hat) is available.
+
+See the Wikipedia [List_of_commercial_open-source_applications_and_services](https://en.m.wikipedia.org/wiki/List_of_commercial_open-source_applications_and_services) for other services, projects and applications.
+
+----
 
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-## Awesome-EnergyControlApp
+> (This list is not to be used or interpreted as an advertisement for the vendors listed.)
 
-> This GitHub repository: [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energycontrolapp) is a list of [Awesome](https://github.com/sindresorhus/awesome) lists and resources about Open-Source projects that can **control energy** in some way.
+## Awesome-EnergyControlApp Awesome-FLOSS
+
+The [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energycontrolapp) repository features the best [Awesome-FLOSS](https://github.com/sindresorhus/awesome) - Free, Libre and Open-Source Software and hardware that **control energy** in some way. 
 
 ![a.png](a.png)
 
-> Support provided by the Open-Source community.
+<!-- omit in toc -->
+### Open-Source?
 
-## Open-Source
+- [Open-Source](https://en.m.wikipedia.org/wiki/Open-source_software) - What is Open-Source?
 
-- [open-source](https://github.com/open-source) - Open-Source on GitHub.
+- [GitHub-Open-Source](https://github.com/open-source) - Open-Source on GitHub.
 
-- [Open-source_software](https://en.m.wikipedia.org/wiki/Open-source_software) - What is Open-Source?
+<!-- omit in toc -->
+### Programming-Languages
 
-## PhySec
+- [Rust-Lang.org](https://www.rust-lang.org/) - The awesome Rust Programming Language.
 
-- [Awesome-PhySec](https://github.com/l373/Awesome-PhySec) - PhySec repository.
+- [Awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Embedded Rust.
 
-## Rust
+- [Awesome-rust](https://github.com/rust-unofficial/awesome-rust) - Unofficial Rust resources.
 
-- [rust-lang.org](https://www.rust-lang.org/) - Rust Programming Language.
+<!-- omit in toc -->
+### Electronic-Circuits
 
-- [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Embedded Rust.
+- [Awesome-circuits](https://github.com/Xndr7/awesome-circuits) - Electronic circuits and components.
 
-- [awesome-rust](https://github.com/rust-unofficial/awesome-rust) - Unofficial Rust resources.
+- [Awesome-electronics](https://github.com/kitspace/awesome-electronics) - Electronic CAD software.
 
-## Circuits
+- [Awesome-electronic-engineering](https://github.com/SergioGasquez/awesome-electronic-engineering) - Electronic Engineering Learning repository.
 
-- [awesome-circuits](https://github.com/Xndr7/awesome-circuits) - Electronic circuits and components.
+- [Awesome-electronics](https://github.com/techgaun/awesome-electronics) - DIY electronics circuits.
 
-- [awesome-electronics](https://github.com/kitspace/awesome-electronics) - CAD electronic resources.
+<!-- omit in toc -->
+### Physical-Security
 
-- [awesome-electronic-engineering](https://github.com/SergioGasquez/awesome-electronic-engineering) - Electronic Engineering Learning resouces.
+- [Awesome-PhySec](https://github.com/l373/Awesome-PhySec) - PhySec, Physical-Security.
 
-- [awesome-electronics](https://github.com/techgaun/awesome-electronics) - DIY electronic resources.
+<!-- omit in toc -->
+### Energy-Storage
 
-## Sustainable
-
-- [open-sustainable-technology](https://github.com/protontypes/open-sustainable-technology) - Energy Storage and battery management.
+- [Energy-Storage](https://github.com/protontypes/open-sustainable-technology) - Sustainable technology for Energy-Storage and battery management.
