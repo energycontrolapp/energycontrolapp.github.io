@@ -4,9 +4,9 @@
 # EnergyControlApp
 
 <!-- omit in toc -->
-## Awesome-Lists ![a.png](a.png)
+## Awesome-List ![a.png](a.png)
 
-Just the best, carefully curated set of [Awesome-Lists](https://github.com/topics/awesome) about [**EnergyControlApp**](https://energycontrolapp.github.io) resources to **control energy** in some way, shape or form!
+Just the best, carefully curated set of [Awesome-Lists](https://github.com/topics/awesome) about [**EnergyControlApp**](https://energycontrolapp.github.io) resources to **control energy** in some way, shape or form.
 
 <!-- omit in toc -->
 ## Contents
