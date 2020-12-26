@@ -1,35 +1,29 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-<!-- omit in toc -->
-# EnergyControlApp
+Just the best, carefully curated [Awesome List](https://github.com/topics/awesome) - energycontrolapp.github.io - details resources about Energy Control App software and very shiny things.
 
-<!-- omit in toc -->
-## Awesome-List ![a.png](a.png)
-
-Just the best, carefully curated set of [Awesome-Lists](https://github.com/topics/awesome) about [**EnergyControlApp**](https://energycontrolapp.github.io) resources to **control energy** in some way, shape or form.
+![a.png](a.png)
 
 <!-- omit in toc -->
 ## Contents
 - [Safety](#safety)
-- [Controls](#controls)
-- [Protection](#protection)
+- [Engineering](#engineering)
 - [Projects](#projects)
 - [Security](#security)
 - [Alarms](#alarms)
 - [HVAC](#hvac)
 - [Electronics](#electronics)
 - [Manufacturers](#manufacturers)
-- [Engineering](#engineering)
 - [Standards](#standards)
 - [Open Source Hardware](#open-source-hardware)
-  - [OSHWA Open Source Hardware Association](#oshwa-open-source-hardware-association)
+  - [OSHWA.org Association](#oshwaorg-association)
 - [Open Source Software](#open-source-software)
   - [Apache-OFbiz](#apache-ofbiz)
-- [Awesome-EnergyControlApp Awesome-FLOSS](#awesome-energycontrolapp-awesome-floss)
+- [Awesome-FLOSS](#awesome-floss)
 
 ## Safety
 
-- [Controls](https://en.m.wikipedia.org/wiki/Hierarchy_of_hazard_controls) - Hierarchy of Controls to safely manage hazards.
+- [Safety-Controls](https://en.m.wikipedia.org/wiki/Hierarchy_of_hazard_controls) - Hierarchy of Controls to safely manage hazards.
 
 ![hierarchyofhazardcontrols.png](hierarchyofhazardcontrols.png)
 
@@ -37,20 +31,18 @@ Just the best, carefully curated set of [Awesome-Lists](https://github.com/topic
   
 - [COVID-19](https://n-o-d-e.net/covid.html) - A showcase of open hardware projects to fight COVID-19.
 
-## Controls
+## Engineering
 
-- [Engineering-Controls](https://en.m.wikipedia.org/wiki/Engineering_controls) - Controls designed to protect.
+- [Engineering-Controls](https://en.m.wikipedia.org/wiki/Engineering_controls) - Engineered Systems designed to protect.
 
-## Protection
+## Projects
 
 - [Electrical-Protection](https://en.m.wikipedia.org/wiki/Power_system_protection) - Protection of electrical power systems from faults.
 
 - [Hazard-Elimination](https://en.m.wikipedia.org/wiki/Hazard_elimination) - Protection of electrical power systems from faults.
 
 - [PtD-Prevention](https://en.m.wikipedia.org/wiki/Prevention_through_design) - Prevention through Design.
-
-## Projects
-
+  
 - [CHIP-Connected-Home-over-IP](
 https://en.m.wikipedia.org/wiki/Connected_Home_over_IP) - CHIP Project Connected Home over IP is an open-source, royalty-free  automation connectivity standards project which features compatibility among different smart home and Internet of Things products and software.
 
@@ -78,31 +70,29 @@ https://en.m.wikipedia.org/wiki/Connected_Home_over_IP) - CHIP Project Connected
 
 - [Energy-Star](https://en.m.wikipedia.org/wiki/Energy_Star) - Certified energy-efficient products.
 
-![energystar.png](energystar.png)
+> ![energystar.png](energystar.png)
 
 ## Manufacturers
 
-- [Controls-Manufacturers](https://sunbeltcontrols.com/products/building-automation/reliable-controls) - Reliable Controls manufacturer of smart building controls.
+- [Controls-Manufacturers](https://sunbeltcontrols.com/products/building-automation/reliable-controls) - Reliable Controls manufacturer of smart building systems.
 
-- [Building-Automation-Solutions](https://en.m.wikipedia.org/wiki/Schneider_Electric) - Schneider energy and building automation solutions.
-
-## Engineering
+- [Building-Automation](https://en.m.wikipedia.org/wiki/Schneider_Electric) - Schneider energy and building automation solutions.
 
 - [HPAC-Engineering](https://www.hpac.com/magazine) - HVAC and Building Automation Systems magazine.
 
-![hpacengineering.png](hpacengineering.png)
+> ![hpacengineering.png](hpacengineering.png)
 
 ## Standards
 
 - [Canadian-Electrical-Code](https://en.m.wikipedia.org/wiki/Canadian_Electrical_Code) - Canadian Electrical Code.
 
-![csa.png](csa.png)
+> ![csa.png](csa.png)
 
 ## Open Source Hardware
 
-### OSHWA Open Source Hardware Association
+### OSHWA.org Association
 
-- [OSHWA-Open-Source-Hardware](https://www.oshwa.org/) - OSHWA Open Source Hardware Association.
+- [OSHWA.org Association](https://www.oshwa.org/) - OSHWA Open Source Hardware Association.
 
 ![oshw.png](oshw.png)
 
@@ -128,9 +118,9 @@ See the Wikipedia [List_of_commercial_open-source_applications_and_services](htt
 
 > (This list is not to be used or interpreted as an advertisement for the vendors listed.)
 
-## Awesome-EnergyControlApp Awesome-FLOSS
+## Awesome-FLOSS
 
-The [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energycontrolapp) repository features the best [Awesome-FLOSS](https://github.com/sindresorhus/awesome) - Free, Libre and Open-Source Software and hardware that **control energy** in some way. 
+The [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energycontrolapp) repository about [Awesome-FLOSS](https://github.com/sindresorhus/awesome) - Free, Libre and Open-Source Software.
 
 ![a.png](a.png)
 
