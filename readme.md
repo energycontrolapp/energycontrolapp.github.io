@@ -10,31 +10,31 @@
 
 > Technical expertise and professional consulting (with a business model similar to Red Hat) for operating systems and software is available. See the Wikipedia [List_of_commercial_open-source_applications_and_services](https://en.m.wikipedia.org/wiki/List_of_commercial_open-source_applications_and_services)
 
-![chipconnectedhomeip.png](chipconnectedhomeip.png)
-
 > Commercial support and training for open-source hardware (with a business model similar to Android) is available for legal, business or government compliance requirements. Commercial licences can offer legal protection and indemnification from copyright and patent infringement. See the Wikipedia list of [Open-source_hardware](https://en.m.wikipedia.org/wiki/Open-source_hardware)
 
 ## Contents
 
-- [**Safety**](#safety)
-- [Controls](#controls)
-- [Protection](#protection)
-- [Security](#security)
-- [Protocols](#protocols)
-- [Software](#software)
-- [Hardware](#hardware)
-- [HVAC](#hvac)
-- [Alarms](#alarms)
-- [Standards](#standards)
-- [Manufacturers](#manufacturers)
-- [Electronics](#electronics)
-- [Magazines](#magazines)
-- [**Awesome-EnergyControlApp**](#awesome-energycontrolapp)
-- [**Open-Source**](#open-source)
-- [PhySec](#physec)
-- [Rust](#rust)
-- [Circuits](#circuits)
-- [Sustainable](#sustainable)
+- [Energy Control App](#energy-control-app)
+  - [Contents](#contents)
+  - [Safety](#safety)
+  - [Controls](#controls)
+  - [Protection](#protection)
+  - [Security](#security)
+  - [Protocols](#protocols)
+  - [Software](#software)
+  - [Hardware](#hardware)
+  - [HVAC](#hvac)
+  - [Alarms](#alarms)
+  - [Standards](#standards)
+  - [Manufacturers](#manufacturers)
+  - [Electronics](#electronics)
+  - [Magazines](#magazines)
+  - [Awesome-EnergyControlApp](#awesome-energycontrolapp)
+  - [Open-Source](#open-source)
+  - [PhySec](#physec)
+  - [Rust](#rust)
+  - [Circuits](#circuits)
+  - [Sustainable](#sustainable)
 
 ## Safety
 
@@ -57,6 +57,8 @@
 - [Hazard_elimination](https://en.m.wikipedia.org/wiki/Hazard_elimination) - Protection of electrical power systems from faults.
 
 - [PtD](https://en.m.wikipedia.org/wiki/Prevention_through_design) - Prevention through Design.
+
+![chipconnectedhomeip.png](chipconnectedhomeip.png)
 
 ## Security
 
