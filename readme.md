@@ -52,9 +52,9 @@
 
 ## Protection
 
-- [Electrical Protection](https://en.m.wikipedia.org/wiki/Power_system_protection) - Protection of electrical power systems from faults.
+- [Electrical-Protection](https://en.m.wikipedia.org/wiki/Power_system_protection) - Protection of electrical power systems from faults.
 
-- [Hazard_elimination](https://en.m.wikipedia.org/wiki/Hazard_elimination) - Protection of electrical power systems from faults.
+- [Hazard-elimination](https://en.m.wikipedia.org/wiki/Hazard_elimination) - Protection of electrical power systems from faults.
 
 - [PtD](https://en.m.wikipedia.org/wiki/Prevention_through_design) - Prevention through Design.
 
@@ -64,9 +64,8 @@
 
 ## Protocols
 
-- [Connected_Home_over_IP](
+- [CHIP-Connected_Home_over_IP](
 https://en.m.wikipedia.org/wiki/Connected_Home_over_IP) - CHIP Project Connected Home over IP is an open-source, royalty-free  automation connectivity standards project which features compatibility among different smart home and Internet of Things products and software.
-
 
 ![chipconnectedhomeip.png](chipconnectedhomeip.png)
 
