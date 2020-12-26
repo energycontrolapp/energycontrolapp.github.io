@@ -65,7 +65,7 @@
 ## Protocols
 
 - [Connected_Home_over_IP](
-https://en.m.wikipedia.org/wiki/Connected_Home_over_IP)
+https://en.m.wikipedia.org/wiki/Connected_Home_over_IP) - Project Connected Home over IP CHIP is an open-sourced, royalty-free home automation connectivity standard project which features compatibility among different smart home and Internet of things products and software.
 
 
 ![chipconnectedhomeip.png](chipconnectedhomeip.png)
