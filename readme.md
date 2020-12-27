@@ -1,6 +1,6 @@
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-Just the best, carefully curated [Awesome List](https://github.com/topics/awesome) - energycontrolapp.github.io - details resources about Energy Control App software and very shiny things.
+Just the best, carefully hand curated [Awesome List](https://github.com/topics/awesome) - energycontrolapp.github.io - details resources about Energy Control App software and very shiny things.
 
 ![a.png](a.png)
 
@@ -18,7 +18,7 @@ Just the best, carefully curated [Awesome List](https://github.com/topics/awesom
 - [Open Source Hardware](#open-source-hardware)
   - [OSHWA.org Association](#oshwaorg-association)
 - [Open Source Software](#open-source-software)
-  - [Apache-OFbiz](#apache-ofbiz)
+  - [Apache-OFBiz](#apache-ofbiz)
 - [Awesome-FLOSS](#awesome-floss)
 
 ## Safety
@@ -50,7 +50,7 @@ https://en.m.wikipedia.org/wiki/Connected_Home_over_IP) - CHIP Project Connected
 
 - [BACnet Building Automation Control network](http://www.bacnet.org) - ANSI ISO Standard Communication Protocol for buildings.
 
-![bacnet.png](bacnet.png)
+> ![bacnet.png](bacnet.png)
 
 ## Security
 
@@ -94,7 +94,7 @@ https://en.m.wikipedia.org/wiki/Connected_Home_over_IP) - CHIP Project Connected
 
 - [OSHWA.org Association](https://www.oshwa.org/) - OSHWA Open Source Hardware Association.
 
-![oshw.png](oshw.png)
+> ![oshw.png](oshw.png)
 
 > Commercial support and training for open-source hardware (under a model similar to Android) is available for legal, business or government compliance requirements. Commercial licences can offer legal indemnification from copyright and patent infringement claims.
 
@@ -102,11 +102,11 @@ See the Wikipedia list of [Open-source_hardware](https://en.m.wikipedia.org/wiki
 
 ## Open Source Software
 
-### Apache-OFbiz
+### Apache-OFBiz
 
-- [Apache-OFbiz](https://ofbiz.apache.org) - Open Source Enterprise Resource Planning.
+- [Apache-OFBiz](https://ofbiz.apache.org) - Open Source Enterprise Resource Planning.
 
-![apacheofbiz.png](apacheofbiz.png)
+> ![apacheofbiz.png](apacheofbiz.png)
 
 > Commercial support and professional consulting services are available. Technical expertise and professional DevOps consulting (under a model similar to Red Hat) is available.
 
@@ -130,6 +130,11 @@ The [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energ
 - [Open-Source](https://en.m.wikipedia.org/wiki/Open-source_software) - What is Open-Source?
 
 - [GitHub-Open-Source](https://github.com/open-source) - Open-Source on GitHub.
+
+<!-- omit in toc -->
+### Open-Source means No-Free-Support?
+
+ - [No-Free-Support](https://raccoon.onyxbits.de/blog/reactions-bugreport-free-support/) - No Open Source does not mean Includes Free Support aftermath epic social media death hugs.
 
 <!-- omit in toc -->
 ### Programming-Languages
