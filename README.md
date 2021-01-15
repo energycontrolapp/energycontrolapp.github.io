@@ -12,14 +12,10 @@ Just the best, carefully hand curated [Awesome List](https://github.com/topics/a
 - [Security](#security)
 - [Alarms](#alarms)
 - [HVAC](#hvac)
-- [Electronics](#electronics)
 - [Manufacturers](#manufacturers)
 - [Standards](#standards)
-- [Open Source Hardware](#open-source-hardware)
-  - [OSHWA.org Association](#oshwaorg-association)
-- [Open Source Software](#open-source-software)
-  - [Apache-OFBiz](#apache-ofbiz)
-- [Awesome-FLOSS](#awesome-floss)
+- [Open-Source-Hardware](#open-source-hardware)
+- [Open-Source-Software](#open-source-software)
 
 ## Safety
 
@@ -55,7 +51,7 @@ https://en.m.wikipedia.org/wiki/Connected_Home_over_IP) - CHIP Project Connected
 ## Security
 
 - [RFID](https://github.com/rfidtool/ESP-RFID-Tool) - Wiegand RFID testing.
-  
+
 ## Alarms
 
 - [Fire-Alarms](https://en.m.wikipedia.org/wiki/Fire_alarm_system) - Fire alarm systems.
@@ -64,15 +60,13 @@ https://en.m.wikipedia.org/wiki/Connected_Home_over_IP) - CHIP Project Connected
 
 - [HVAC](https://en.m.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning) - Heating ventilation and air conditioning.
 
-## Electronics
+## Manufacturers
 
 - [Digi](https://en.m.wikipedia.org/wiki/Digi_International) - Digi Industrial Internet of Things.
 
 - [Energy-Star](https://en.m.wikipedia.org/wiki/Energy_Star) - Certified energy-efficient products.
 
 > ![energystar.png](energystar.png)
-
-## Manufacturers
 
 - [Controls-Manufacturers](https://sunbeltcontrols.com/products/building-automation/reliable-controls) - Reliable Controls manufacturer of smart building systems.
 
@@ -88,8 +82,9 @@ https://en.m.wikipedia.org/wiki/Connected_Home_over_IP) - CHIP Project Connected
 
 > ![csa.png](csa.png)
 
-## Open Source Hardware
+## Open-Source-Hardware
 
+<!-- omit in toc -->
 ### OSHWA.org Association
 
 - [OSHWA.org Association](https://www.oshwa.org/) - OSHWA Open Source Hardware Association.
@@ -100,8 +95,9 @@ https://en.m.wikipedia.org/wiki/Connected_Home_over_IP) - CHIP Project Connected
 
 See the Wikipedia list of [Open-source_hardware](https://en.m.wikipedia.org/wiki/Open-source_hardware) for other good examples of open-source hardware projects.
 
-## Open Source Software
+## Open-Source-Software
 
+<!-- omit in toc -->
 ### Apache-OFBiz
 
 - [Apache-OFBiz](https://ofbiz.apache.org) - Open Source Enterprise Resource Planning.
@@ -118,6 +114,7 @@ See the Wikipedia [List_of_commercial_open-source_applications_and_services](htt
 
 > (This list is not to be used or interpreted as an advertisement for the vendors listed.)
 
+<!-- omit in toc -->
 ## Awesome-FLOSS
 
 The [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energycontrolapp) repository about [Awesome-FLOSS](https://github.com/sindresorhus/awesome) - Free, Libre and Open-Source Software.
@@ -162,6 +159,16 @@ The [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energ
 - [Awesome-PhySec](https://github.com/l373/Awesome-PhySec) - PhySec, Physical-Security.
 
 <!-- omit in toc -->
+### Awesome-Security
+
+- [OpenPGP](https://github.com/topics/openpgp) - OpenPGP tools that implement RFC 4880, an Open PGP format of symmetrically encrypted, compressed and integrity protected files.
+
+- [JSON_Web_Encryption](https://en.wikipedia.org/wiki/JSON_Web_Encryption) - JSON Web Encryption is an IETF standard providing a syntax for the exchange of encrypted data, based on JSON and Base64 as defined by RFC7516.
+
+- [Local-PGP](https://github.com/x0th/Local-PGP) - Local OpenPGP Browser support for [Chrome](https://chrome.google.com/webstore/detail/local-pgp-browser-encrypt/hlcbdlnnolgaenfoddgdlmgjflcapbba), [Firefox](https://addons.mozilla.org/addon/local-pgp/).
+
+<!-- omit in toc -->
 ### Energy-Storage
 
 - [Energy-Storage](https://github.com/protontypes/open-sustainable-technology) - Sustainable technology for Energy-Storage and battery management.
+
