@@ -172,11 +172,8 @@ The [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energ
 
 - [TiddlyWiki](https://tiddlywiki.com/) - Wiki in a single file with [WikiText](https://tiddlywiki.com/static/WikiText.html), Generating Static Sites without JavaScript on TiddlyWiki. See [1](https://tiddlywiki.com/static.html), [2](https://nesslabs.com/tiddlywiki-static-website-generator) and [3](https://boffosocko.com/2020/04/04/self-hosting-tiddlywiki-with-github-pages/).
 
-
-
 <!-- omit in toc -->
 ### Energy-Storage
 
 - [Energy-Storage](https://github.com/protontypes/open-sustainable-technology) - Sustainable technology for Energy-Storage and battery management.
 
-----
