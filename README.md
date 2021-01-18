@@ -156,7 +156,7 @@ The [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energ
 <!-- omit in toc -->
 ### Awesome-Security
 
-- [OpenPGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) - Encrypted and compressed  files.
+- [OpenPGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) - Encrypt and compress  files.
 
 <!-- omit in toc -->
 ### Energy-Storage
