@@ -129,11 +129,6 @@ The [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energ
 - [GitHub-Open-Source](https://github.com/open-source) - Open-Source on GitHub.
 
 <!-- omit in toc -->
-### Open-Source means No-Free-Support?
-
- - [No-Free-Support](https://raccoon.onyxbits.de/blog/reactions-bugreport-free-support/) - No Open Source does not mean Includes Free Support aftermath epic social media death hugs.
-
-<!-- omit in toc -->
 ### Programming-Languages
 
 - [Rust-Lang.org](https://www.rust-lang.org/) - The awesome Rust Programming Language.
@@ -162,15 +157,6 @@ The [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energ
 ### Awesome-Security
 
 - [OpenPGP](https://github.com/topics/openpgp) - OpenPGP tools that implement RFC 4880, an Open PGP format of symmetrically encrypted, compressed and integrity protected files.
-
-- [JSON_Web_Encryption](https://en.wikipedia.org/wiki/JSON_Web_Encryption) - JSON Web Encryption is an IETF standard providing a syntax for the exchange of encrypted data, based on JSON and Base64 as defined by RFC7516.
-
-- [Local-PGP](https://github.com/x0th/Local-PGP) - Local OpenPGP Browser support for [Chrome](https://chrome.google.com/webstore/detail/local-pgp-browser-encrypt/hlcbdlnnolgaenfoddgdlmgjflcapbba), [Firefox](https://addons.mozilla.org/addon/local-pgp/).
-
-<!-- omit in toc -->
-### Awesome-TiddlyWiki
-
-- [TiddlyWiki](https://tiddlywiki.com/) - Wiki in a single file with [WikiText](https://tiddlywiki.com/static/WikiText.html), Generating Static Sites without JavaScript on TiddlyWiki. See [1](https://tiddlywiki.com/static.html), [2](https://nesslabs.com/tiddlywiki-static-website-generator) and [3](https://boffosocko.com/2020/04/04/self-hosting-tiddlywiki-with-github-pages/).
 
 <!-- omit in toc -->
 ### Energy-Storage
