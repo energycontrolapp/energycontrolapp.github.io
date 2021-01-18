@@ -156,12 +156,11 @@ The [awesome-energycontrolapp](https://github.com/energycontrolapp/awesome-energ
 <!-- omit in toc -->
 ### Awesome-Security
 
-- [OpenPGP](https://github.com/topics/openpgp) - OpenPGP tools that implement RFC 4880, an Open PGP format of symmetrically encrypted, compressed and integrity protected files.
+- [OpenPGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy) - Encrypted and compressed  files.
 
 <!-- omit in toc -->
 ### Energy-Storage
 
 - [Energy-Storage](https://github.com/protontypes/open-sustainable-technology) - Sustainable technology for Energy-Storage and battery management.
-
 
 ----
