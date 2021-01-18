@@ -1,7 +1,9 @@
+!.gitignore
+.git
 *.git
-code-workspace.code-workspace
-code.desktop
-####
+*.lint
+*.code-workspace
+*.desktop
 .DS_Store
 ####
 /node_modules/
