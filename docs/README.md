@@ -42,7 +42,7 @@ https://en.m.wikipedia.org/wiki/Connected_Home_over_IP) - CHIP  increases compat
 
 ## Solar
 
-![suns.svg](suns.svg)
+![suns.png](suns.png)
 
 - [RFID](https://en.m.wikipedia.org/wiki/Radio-frequency_identification) - Radio-frequency identification tags.
 
