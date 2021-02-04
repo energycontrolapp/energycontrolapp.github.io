@@ -107,6 +107,29 @@ See the Wikipedia [List_of_commercial_open-source_applications_and_services](htt
 
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
+## SECURITY
+
+<!-- omit in toc -->
+## How to report a vulnerability
+
+If you believe you have discovered a security issue related to this site, please email us with a full description of the vulnerability. We ask that you please keep the details private until we have had a chance to resolve the issue.
+
+<!-- omit in toc -->
+## Public notification
+
+The team will coordinate public nofication of the vulnerability with you. To protect users, we ask that you do not share details of the vulnerability with the public until we have had time to research and address the issue.
+
+<!-- omit in toc -->
+## Vulnerability disclosure
+
+Please do not discuss security vulnerabilities in public until a fix has been developed and deployed.
+
+Also see [SECURITY.md](./SECURITY.md) about reporting security issues and vulnerabilities.
+
+----
+
+<META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+
 <!-- omit in toc -->
 ## Awesome-FLOSS
 

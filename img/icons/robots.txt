@@ -1,0 +1,55 @@
+User-agent: *
+Disallow: /
+User-agent: *
+Crawl-delay: 30
+User-agent: *
+Disallow: /
+Noindex: /
+Nofollow: /
+
+User-agent: adsbot-google
+Disallow: /
+
+User-agent: twitterbot
+Disallow: /
+
+User-agent: facebookexternalhit
+Disallow: /
+
+Sitemap: https://www.example.com/sitemap.xml
+Host: www.example.com
+
+<!-- robots -->
+    <meta name="robots" content="noindex" />
+    <meta name="robots" content="nofollow" />
+    <meta name="robots" content="noarchive" />
+    <meta name="robots" content="nosnippet" />
+    <meta name="robots" content="noimageindex" />
+    <meta name="robots" content="none" />
+    <meta name="robots" content="nocache" />
+    <meta name="robots" content="noyaca" />
+    <meta name="robots" content="noydir" />
+    <meta name="robots" content="noodp" />
+    <meta name="robots" content="max-snippet:0" />
+    <meta name="robots" content="max-image-preview:none" />
+    <meta name="robots" content="max-video-preview:0" />
+    <meta name="robots" content="notranslate" />
+    <meta name="robots" content="unavailable_after: 2020-12-13" />
+    <meta name="googlebot" content="noindex" />
+    <meta name="bingbot" content="noindex" />
+    <meta name="adidxbot" content="noindex" />
+    <meta name="msnbot" content="noindex" />
+    <meta name="slurp" content="noindex" />
+    <meta name="yandex" content="noindex" />
+    <meta name="googlebot-image" content="noindex" />
+    <meta name="googlebot-mobile" content="noindex" />
+    <meta name="googlebot-video" content="noindex" />
+    <meta name="mediapartners-google" content="noindex" />
+    <meta name="adsbot-google" content="noindex" />
+    <meta name="msnbot-media" content="noindex" />
+    <meta name="baiduspider" content="noindex" />
+    <meta name="baiduspider-image" content="noindex" />
+    <meta name="baiduspider-mobile" content="noindex" />
+    <meta name="baiduspider-news" content="noindex" />
+    <meta name="baiduspider-video" content="noindex" />
+<!-- robots -->
