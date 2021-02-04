@@ -141,8 +141,6 @@ Also see [SECURITY.md](./SECURITY.md) about reporting security issues and vulner
 A GitHub repository about [Awesome-FLOSS](https://github.com/sindresorhus/awesome) - Free, Libre and Open-Source Software.
 
 ![a.png](a.png)
-![d.png](d.png)
-![s.png](s.png)
 
 <!-- omit in toc -->
 ### Electronic-Circuits
@@ -164,3 +162,8 @@ A GitHub repository about [Awesome-FLOSS](https://github.com/sindresorhus/awesom
 ### Energy-Storage
 
 - [Energy-Storage](https://github.com/protontypes/open-sustainable-technology) - Sustainable technology for Energy-Storage and battery management.
+
+----
+
+![d.png](d.png)
+![s.png](s.png)
