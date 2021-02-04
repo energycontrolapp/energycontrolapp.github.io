@@ -4,6 +4,7 @@ An [Awesome](https://github.com/topics/awesome) List about Energy Control App so
 
 ![a.png](a.png)
 ![d.png](d.png)
+![s.png](s.png)
 
 <!-- omit in toc -->
 ## Contents
