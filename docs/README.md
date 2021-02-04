@@ -3,8 +3,6 @@
 An [Awesome](https://github.com/topics/awesome) List about Energy Control App software and hardware.
 
 ![a.png](a.png)
-![d.png](d.png)
-![s.png](s.png)
 
 <!-- omit in toc -->
 ## Contents
@@ -139,6 +137,8 @@ Also see [SECURITY.md](./SECURITY.md) about reporting security issues and vulner
 A GitHub repository about [Awesome-FLOSS](https://github.com/sindresorhus/awesome) - Free, Libre and Open-Source Software.
 
 ![a.png](a.png)
+![d.png](d.png)
+![s.png](s.png)
 
 <!-- omit in toc -->
 ### Electronic-Circuits
