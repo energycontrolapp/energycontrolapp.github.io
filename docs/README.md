@@ -2,7 +2,7 @@
 
 An [Awesome](https://github.com/topics/awesome) List about Energy Control App software and hardware.
 
-![a.png](a.png)
+![a.png](a.png).
 
 <!-- omit in toc -->
 ## Contents
@@ -44,7 +44,7 @@ https://en.m.wikipedia.org/wiki/Connected_Home_over_IP) - CHIP  increases compat
 
 ![suns.png](suns.png)
 
-- [RFID](https://en.m.wikipedia.org/wiki/Radio-frequency_identification) - Radio-frequency identification tags.
+- [Solar_power](https://en.m.wikipedia.org/wiki/Solar_power) - Solar power.
 
 ## Security
 
@@ -165,5 +165,4 @@ A GitHub repository about [Awesome-FLOSS](https://github.com/sindresorhus/awesom
 
 ----
 
-![d.png](d.png)
-![s.png](s.png)
+.
