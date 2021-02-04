@@ -1,10 +1,9 @@
-![d.png](d.png)
-
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
 An [Awesome](https://github.com/topics/awesome) List about Energy Control App software and hardware.
 
 ![a.png](a.png)
+![d.png](d.png)
 
 <!-- omit in toc -->
 ## Contents
