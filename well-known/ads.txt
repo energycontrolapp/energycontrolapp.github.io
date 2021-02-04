@@ -1,3 +1,0 @@
-placeholder.example.com, placeholder, DIRECT, placeholder
-<meta name="robots" content="noindex" />
-
