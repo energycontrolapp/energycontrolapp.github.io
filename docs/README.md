@@ -9,13 +9,13 @@ An [Awesome](https://github.com/topics/awesome) List about Energy Control App so
 - [Safety](#safety)
 - [Engineering](#engineering)
 - [Projects](#projects)
+- [Solar](#solar)
 - [Security](#security)
 - [HVAC](#hvac)
 - [Manufacturers](#manufacturers)
 - [Standards](#standards)
 - [Open-Source-Hardware](#open-source-hardware)
 - [Open-Source-Software](#open-source-software)
-- [SECURITY](#security-1)
 
 ## Safety
 
@@ -39,6 +39,12 @@ https://en.m.wikipedia.org/wiki/Connected_Home_over_IP) - CHIP  increases compat
 - [BACnet Building Automation Control network](http://www.bacnet.org) - Communication protocols for buildings.
 
 > ![bacnet.png](bacnet.png)
+
+## Solar
+
+![suns.svg](suns.svg)
+
+- [RFID](https://en.m.wikipedia.org/wiki/Radio-frequency_identification) - Radio-frequency identification tags.
 
 ## Security
 
@@ -108,20 +114,18 @@ See the Wikipedia [List_of_commercial_open-source_applications_and_services](htt
 
 <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-## SECURITY
-
 <!-- omit in toc -->
 ## How to report a vulnerability
 
 If you believe you have discovered a security issue related to this site, please email us with a full description of the vulnerability. We ask that you please keep the details private until we have had a chance to resolve the issue.
 
 <!-- omit in toc -->
-## Public notification
+## Notification
 
-The team will coordinate public nofication of the vulnerability with you. To protect users, we ask that you do not share details of the vulnerability with the public until we have had time to research and address the issue.
+The team will coordinate public notification of the vulnerability with you. To protect users, we ask that you do not share details of the vulnerability with the public until we have had time to research and address the issue.
 
 <!-- omit in toc -->
-## Vulnerability disclosure
+## Disclosure
 
 Please do not discuss security vulnerabilities in public until a fix has been developed and deployed.
 
