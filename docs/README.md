@@ -42,9 +42,13 @@ https://en.m.wikipedia.org/wiki/Connected_Home_over_IP) - CHIP  increases compat
 
 ## Solar
 
-![suns.png](suns.png)
+![sunsy.png](sunsy.png)
 
 - [Solar_power](https://en.m.wikipedia.org/wiki/Solar_power) - Solar power.
+
+- [Solar_energy](https://en.m.wikipedia.org/wiki/Solar_energy) - Solar energy.
+
+![solarcell.jpg](solarcell.jpg)
 
 ## Security
 
