@@ -2,7 +2,7 @@
 
 An [Awesome](https://github.com/topics/awesome) List about Energy Control App software and hardware.
 
-![a.png](a.png)..
+![a.png](a.png).
 
 <!-- omit in toc -->
 ## Contents
@@ -44,9 +44,9 @@ https://en.m.wikipedia.org/wiki/Connected_Home_over_IP) - CHIP  increases compat
 
 - [Awesome-sustainable-technology](https://github.com/OpenEnergyPlatform/awesome-sustainable-technology) - Awesome-sustainable-technology.
 
-![sunsy.png](sunsy.png)
-
 - [Openclimatefix](https://github.com/openclimatefix/openclimatefix.github.io) - Open Climate Fix is a solar energy non-profit research and development lab.
+
+![sunsy.png](sunsy.png)
 
 - [GitHub-solar-energy](https://github.com/topics/solar-energy) - Solar energy topics.
 
@@ -169,4 +169,4 @@ A GitHub repository about [Awesome-FLOSS](https://github.com/sindresorhus/awesom
 
 ----
 
-..
+.
