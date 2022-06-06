@@ -135,12 +135,6 @@ A GitHub repository about [Awesome-FLOSS](https://github.com/sindresorhus/awesom
 
 - [Awesome-electronics](https://github.com/techgaun/awesome-electronics) - Electronics circuits.
 
-<!-- omit in toc -->
-### Physical-Security
-
-- [Awesome-PhySec](https://github.com/l373/Awesome-PhySec) - PhySec, Physical-Security.
-
-<!-- omit in toc -->
 ### Energy-Storage
 
 - [Energy-Storage](https://github.com/protontypes/open-sustainable-technology) - Sustainable technology for Energy-Storage and battery management.
