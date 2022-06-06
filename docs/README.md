@@ -29,21 +29,21 @@ An [Awesome](https://github.com/topics/awesome) List about Energy Control App so
 
 ## Projects
   
-- [Matter-Connected-Home-over-IP](https://en.m.wikipedia.org/wiki/Matter_(standard)) - Matter increases compatibility among different smart home products.
+- [Matter](https://en.m.wikipedia.org/wiki/Matter_(standard)) - Matter-compatible devices are secure, reliable, and seamless to use.
 
 ![chipconnectedhomeip.png](chipconnectedhomeip.png)
 
 - [BACnet Building Automation Control network](https://en.m.wikipedia.org/wiki/BACnet) - Communication protocols for buildings.
 
 > ![bacnet.png](bacnet.png)
+	
+- [KNX](KNX is an open standard building automation) - KNX is an open standard building automation.
 
 ## Solar
 
 - [Awesome-sustainable-technology](https://github.com/OpenEnergyPlatform/awesome-sustainable-technology) - Awesome-sustainable-technology.
 
 - [Openclimatefix](https://github.com/openclimatefix/openclimatefix.github.io) - Open Climate Fix is a solar energy non-profit research and development lab.
-
-![sunsy.png](sunsy.png)
 
 - [GitHub-solar-energy](https://github.com/topics/solar-energy) - Solar energy topics.
 
