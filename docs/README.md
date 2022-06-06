@@ -31,8 +31,7 @@ An [Awesome](https://github.com/topics/awesome) List about Energy Control App so
 
 ## Projects
   
-- [Connected-Home-over-IP](
-https://en.m.wikipedia.org/wiki/Connected_Home_over_IP) - CHIP  increases compatibility among different smart home products.
+- [Matter-Connected-Home-over-IP](https://en.m.wikipedia.org/wiki/Matter_(standard)) - CHIP increases compatibility among different smart home products.
 
 ![chipconnectedhomeip.png](chipconnectedhomeip.png)
 
