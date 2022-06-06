@@ -37,7 +37,7 @@ An [Awesome](https://github.com/topics/awesome) List about Energy Control App so
 
 > ![bacnet.png](bacnet.png)
 	
-- [KNX](KNX is an open standard building automation) - KNX is an open standard building automation.
+- [KNX](https://n.m.wikipedia.org/wiki/KNX_(standard)) - Open standards for building automation
 
 ## Solar
 
