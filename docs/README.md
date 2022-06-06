@@ -23,8 +23,6 @@ An [Awesome](https://github.com/topics/awesome) List about Energy Control App so
 
 ![hierarchyofhazardcontrols.png](hierarchyofhazardcontrols.png)
 
-- [COVID-19](https://n-o-d-e.net/covid.html) - Projects to fight SARS-CoV-2.
-
 ## Engineering
 
 - [Engineering-Controls](https://en.m.wikipedia.org/wiki/Engineering_controls) - Strategies designed to protect from dangers.
