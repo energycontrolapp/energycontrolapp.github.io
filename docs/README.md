@@ -35,7 +35,7 @@ An [Awesome](https://github.com/topics/awesome) List about Energy Control App so
 
 ![chipconnectedhomeip.png](chipconnectedhomeip.png)
 
-- [BACnet Building Automation Control network](http://www.bacnet.org) - Communication protocols for buildings.
+- [BACnet Building Automation Control network]([http://www.bacnet.org](https://en.m.wikipedia.org/wiki/BACnet)) - Communication protocols for buildings.
 
 > ![bacnet.png](bacnet.png)
 
