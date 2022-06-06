@@ -33,11 +33,11 @@ An [Awesome](https://github.com/topics/awesome) List about Energy Control App so
 
 ![chipconnectedhomeip.png](chipconnectedhomeip.png)
 
-- [BACnet Building Automation Control network](https://en.m.wikipedia.org/wiki/BACnet) - Communication protocols for buildings.
+- [BACnet Building Automation Control network](https://en.m.wikipedia.org/wiki/BACnet) - HVAC communications for buildings.
 
 > ![bacnet.png](bacnet.png)
 	
-- [KNX](https://n.m.wikipedia.org/wiki/KNX_(standard)) - Open standards for building automation
+- [KNX-standard](https://n.m.wikipedia.org/wiki/KNX_(standard)) - Open standards for building automation
 
 ## Solar
 
