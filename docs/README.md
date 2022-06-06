@@ -104,7 +104,7 @@ See the Wikipedia [List_of_commercial_open-source_applications_and_services](htt
 <!-- omit in toc -->
 ### Home-Assistant
 
-- [Home-Assistant](https://github.com/home-assistant) - Automation software for tinkerers and DIY enthusiasts.
+- [Home-Assistant](https://github.com/home-assistant) - Privacy first open source automation.
 
 <!-- omit in toc -->
 ### Iotivity
