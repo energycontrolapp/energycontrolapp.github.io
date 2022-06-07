@@ -37,7 +37,7 @@ An [Awesome](https://github.com/topics/awesome) List about Energy Control App so
 
 > ![bacnet.png](bacnet.png)
 	
-- [KNX-standard](https://n.m.wikipedia.org/wiki/KNX_(standard)) - Open standards for building automation.
+- [KNX-standard](https://en.m.wikipedia.org/wiki/KNX_(standard)) - Open standards for building automation.
 
 ## Solar
 
@@ -124,8 +124,6 @@ A GitHub repository about [Awesome-FLOSS](https://github.com/sindresorhus/awesom
 
 <!-- omit in toc -->
 ### Electronic-Circuits
-
-- [Awesome-circuits](https://github.com/Xndr7/awesome-circuits) - Electronic circuits and components.
 
 - [Awesome-electronics](https://github.com/kitspace/awesome-electronics) - Electronic CAD software.
 
